@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gradient</title>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css"
+    />
+    <link rel="stylesheet" href="./gradients.css" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="shortcut icon" href="./favicon-32x32.png" type="image/x-icon" />
+  </head>
+  <body>
+    <div class="parent-container">
+      <div class="container">
+        <div class="block">
+          <input
+            type="number"
+            class="input"
+            id="numberInput"
+            min="1"
+            max="562"
+          />
+          <button class="btn" type="submit" id="setValue">Set</button>
+        </div>
+        <div class="block">
+          <button type="button" name="button" class="btn" id="prev">
+            Prev
+          </button>
+          <button type="button" name="button" class="btn" id="next">
+            Next
+          </button>
+        </div>
+        <div class="block">
+          <button id="copyGradientBtn" class="btn">Copy</button>
+          <button data-modal-target="#modal" class="btn" id="open-modalBtn">
+            More
+          </button>
+        </div>
+        <div class="block">
+          <button class="btnBig" id="randomGradient">Random Gradient</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="modal" id="modal">
+      <div class="modal-header">
+        <div class="title">Gradients</div>
+        <button data-close-button class="close-button">X</button>
+      </div>
+      <div class="modal-body">
+        This WebPage has 562 Gradients which have been taken from these website
+        <a href="https://webgradients.com/">Web Gradients</a> &
+        <a href="https://uigradients.com">UI Gradients</a>.
+        <br />
+        <br />
+        Press Next & Previous Buttons to Navigate.
+        <br />
+        <br />
+        You can enter a number in the Input Box which is beside the set Button
+        to move in the List.
+        <br />
+        <br />
+        The Colors of the Random Gradient Colors are logged in Console and they
+        are not saved else where.
+        <br />
+        <br />
+        Copy Button will copy the Object which has the Information about the
+        Gradient to the clipboard.
+        <br />
+        <br />
+        <a href="https://github.com/s9-g/562gradients">Github Link</a> &
+        <a href="mailto:soorajgupta00@gmail.com">Developer Email</a>
+      </div>
+    </div>
+    <div id="overlay"></div>
+    <script
+      type="text/javascript"
+      src="https://cdn.jsdelivr.net/npm/toastify-js"
+    ></script>
+    <script type="module" src="gradients.js"></script>
+    <script type="module" src="main.js"></script>
+  </body>
+</html>

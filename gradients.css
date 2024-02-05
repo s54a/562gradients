@@ -1,0 +1,3275 @@
+/* 40, 119, 141 */
+/* From Web Gradients */
+/* https://webgradients.com/ */
+/*001 Warm Flame*/
+._1 {
+  background-image: linear-gradient(
+    45deg,
+    #ff9a9e 0%,
+    #fad0c4 99%,
+    #fad0c4 100%
+  );
+}
+
+/*002 Night Fade*/
+._2 {
+  background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+}
+
+/*003 Spring Warmth*/
+._3 {
+  background-image: linear-gradient(
+    to right,
+    #fad0c4 0%,
+    #fad0c4 1%,
+    #ffd1ff 100%
+  );
+}
+
+/*004 Juicy Peach*/
+._4 {
+  background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
+}
+
+/*005 Young Passion*/
+._5 {
+  background-image: linear-gradient(
+    to right,
+    #ff8177 0%,
+    #ff867a 0%,
+    #ff8c7f 21%,
+    #f99185 52%,
+    #cf556c 78%,
+    #b12a5b 100%
+  );
+}
+
+/*006 Lady Lips*/
+._6 {
+  background-image: linear-gradient(
+    to top,
+    #ff9a9e 0%,
+    #fecfef 99%,
+    #fecfef 100%
+  );
+}
+
+/*007 Sunny Morning*/
+._7 {
+  background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+}
+
+/*008 Rainy Ashville*/
+._8 {
+  background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+}
+
+/*009 Frozen Dreams*/
+._9 {
+  background-image: linear-gradient(
+    to top,
+    #fdcbf1 0%,
+    #fdcbf1 1%,
+    #e6dee9 100%
+  );
+}
+
+/*010 Winter Neva*/
+._10 {
+  background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+}
+
+/*011 Dusty Grass*/
+._11 {
+  background-image: linear-gradient(120deg, #d4fc79 0%, #96e6a1 100%);
+}
+
+/*012 Tempting Azure*/
+._12 {
+  background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+}
+
+/*013 Heavy Rain*/
+._13 {
+  background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+}
+
+/*014 Amy Crisp*/
+._14 {
+  background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+}
+
+/*015 Mean Fruit*/
+._15 {
+  background-image: linear-gradient(120deg, #fccb90 0%, #d57eeb 100%);
+}
+
+/*016 Deep Blue*/
+._16 {
+  background-image: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+}
+
+/*017 Ripe Malinka*/
+._17 {
+  background-image: linear-gradient(120deg, #f093fb 0%, #f5576c 100%);
+}
+
+/*018 Cloudy Knoxville*/
+._18 {
+  background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+}
+
+/*019 Malibu Beach*/
+._19 {
+  background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+
+/*020 New Life*/
+._20 {
+  background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
+}
+
+/*021 True Sunset*/
+._21 {
+  background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+}
+
+/*022 Morpheus Den*/
+._22 {
+  background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+}
+
+/*023 Rare Wind*/
+._23 {
+  background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+}
+
+/*024 Near Moon*/
+._24 {
+  background-image: linear-gradient(to top, #5ee7df 0%, #b490ca 100%);
+}
+
+/*025 Wild Apple*/
+._25 {
+  background-image: linear-gradient(to top, #d299c2 0%, #fef9d7 100%);
+}
+
+/*026 Saint Petersburg*/
+._26 {
+  background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+
+/*027 Arielle's Smile*/
+._27 {
+  background-image: radial-gradient(
+    circle 248px at center,
+    #16d9e3 0%,
+    #30c7ec 47%,
+    #46aef7 100%
+  );
+}
+
+/*028 Plum Plate*/
+._28 {
+  background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+/*029 Everlasting Sky*/
+._29 {
+  background-image: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+}
+
+/*030 Happy Fisher*/
+._30 {
+  background-image: linear-gradient(120deg, #89f7fe 0%, #66a6ff 100%);
+}
+
+/*031 Blessing*/
+._31 {
+  background-image: linear-gradient(to top, #fddb92 0%, #d1fdff 100%);
+}
+
+/*032 Sharpeye Eagle*/
+._32 {
+  background-image: linear-gradient(to top, #9890e3 0%, #b1f4cf 100%);
+}
+
+/*033 Ladoga Bottom*/
+._33 {
+  background-image: linear-gradient(to top, #ebc0fd 0%, #d9ded8 100%);
+}
+
+/*034 Lemon Gate*/
+._34 {
+  background-image: linear-gradient(to top, #96fbc4 0%, #f9f586 100%);
+}
+
+/*035 Itmeo Branding*/
+._35 {
+  background-image: linear-gradient(180deg, #2af598 0%, #009efd 100%);
+}
+
+/*036 Zeus Miracle*/
+._36 {
+  background-image: linear-gradient(to top, #cd9cf2 0%, #f6f3ff 100%);
+}
+
+/*037 Old Hat*/
+._37 {
+  background-image: linear-gradient(
+    to right,
+    #e4afcb 0%,
+    #b8cbb8 0%,
+    #b8cbb8 0%,
+    #e2c58b 30%,
+    #c2ce9c 64%,
+    #7edbdc 100%
+  );
+}
+
+/*038 Star Wine*/
+._38 {
+  background-image: linear-gradient(
+    to right,
+    #b8cbb8 0%,
+    #b8cbb8 0%,
+    #b465da 0%,
+    #cf6cc9 33%,
+    #ee609c 66%,
+    #ee609c 100%
+  );
+}
+
+/*039 Deep Blue*/
+._39 {
+  background-image: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
+}
+
+/*040 Coup de Grace*/
+._40 {
+  background-color: #dcd9d4;
+  background-image: linear-gradient(
+      to bottom,
+      rgba(255, 255, 255, 0.5) 0%,
+      rgba(0, 0, 0, 0.5) 100%
+    ),
+    radial-gradient(
+      at 50% 0%,
+      rgba(255, 255, 255, 0.1) 0%,
+      rgba(0, 0, 0, 0.5) 50%
+    );
+  background-blend-mode: soft-light, screen;
+}
+
+/*041 Happy Acid*/
+._41 {
+  background-image: linear-gradient(to top, #37ecba 0%, #72afd3 100%);
+}
+
+/*042 Awesome Pine*/
+._42 {
+  background-image: linear-gradient(to top, #ebbba7 0%, #cfc7f8 100%);
+}
+
+/*043 New York*/
+._43 {
+  background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+}
+
+/*044 Shy Rainbow*/
+._44 {
+  background-image: linear-gradient(
+    to right,
+    #eea2a2 0%,
+    #bbc1bf 19%,
+    #57c6e1 42%,
+    #b49fda 79%,
+    #7ac5d8 100%
+  );
+}
+
+/*045 Loon Crest*/
+._45 {
+  background: linear-gradient(
+      to bottom,
+      rgba(255, 255, 255, 0.15) 0%,
+      rgba(0, 0, 0, 0.15) 100%
+    ),
+    radial-gradient(
+        at top center,
+        rgba(255, 255, 255, 0.4) 0%,
+        rgba(0, 0, 0, 0.4) 120%
+      )
+      #989898;
+  background-blend-mode: multiply, multiply;
+}
+
+/*046 Mixed Hopes*/
+._46 {
+  background-image: linear-gradient(to top, #c471f5 0%, #fa71cd 100%);
+}
+
+/*047 Fly High*/
+._47 {
+  background-image: linear-gradient(to top, #48c6ef 0%, #6f86d6 100%);
+}
+
+/*048 Strong Bliss*/
+._48 {
+  background-image: linear-gradient(
+    to right,
+    #f78ca0 0%,
+    #f9748f 19%,
+    #fd868c 60%,
+    #fe9a8b 100%
+  );
+}
+
+/*049 Fresh Milk*/
+._49 {
+  background-image: linear-gradient(to top, #feada6 0%, #f5efef 100%);
+}
+
+/*050 Snow Again*/
+._50 {
+  background-image: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%);
+}
+
+/*051 February Ink*/
+._51 {
+  background-image: linear-gradient(to top, #accbee 0%, #e7f0fd 100%);
+}
+
+/*052 Kind Steel*/
+._52 {
+  background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+}
+
+/*053 Soft Grass*/
+._53 {
+  background-image: linear-gradient(to top, #c1dfc4 0%, #deecdd 100%);
+}
+
+/*054 Grown Early*/
+._54 {
+  background-image: linear-gradient(to top, #0ba360 0%, #3cba92 100%);
+}
+
+/*055 Sharp Blues*/
+._55 {
+  background-image: linear-gradient(to top, #00c6fb 0%, #005bea 100%);
+}
+
+/*056 Shady Water*/
+._56 {
+  background-image: linear-gradient(to right, #74ebd5 0%, #9face6 100%);
+}
+
+/*057 Dirty Beauty*/
+._57 {
+  background-image: linear-gradient(to top, #6a85b6 0%, #bac8e0 100%);
+}
+
+/*058 Great Whale*/
+._58 {
+  background-image: linear-gradient(to top, #a3bded 0%, #6991c7 100%);
+}
+
+/*059 Teen Notebook*/
+._59 {
+  background-image: linear-gradient(to top, #9795f0 0%, #fbc8d4 100%);
+}
+
+/*060 Polite Rumors*/
+._60 {
+  background-image: linear-gradient(
+    to top,
+    #a7a6cb 0%,
+    #8989ba 52%,
+    #8989ba 100%
+  );
+}
+
+/*061 Sweet Period*/
+._61 {
+  background-image: linear-gradient(
+    to top,
+    #3f51b1 0%,
+    #5a55ae 13%,
+    #7b5fac 25%,
+    #8f6aae 38%,
+    #a86aa4 50%,
+    #cc6b8e 62%,
+    #f18271 75%,
+    #f3a469 87%,
+    #f7c978 100%
+  );
+}
+
+/*062 Wide Matrix*/
+._62 {
+  background-image: linear-gradient(
+    to top,
+    #fcc5e4 0%,
+    #fda34b 15%,
+    #ff7882 35%,
+    #c8699e 52%,
+    #7046aa 71%,
+    #0c1db8 87%,
+    #020f75 100%
+  );
+}
+
+/*063 Soft Cherish*/
+._63 {
+  background-image: linear-gradient(
+    to top,
+    #dbdcd7 0%,
+    #dddcd7 24%,
+    #e2c9cc 30%,
+    #e7627d 46%,
+    #b8235a 59%,
+    #801357 71%,
+    #3d1635 84%,
+    #1c1a27 100%
+  );
+}
+
+/*064 Red Salvation*/
+._64 {
+  background-image: linear-gradient(to top, #f43b47 0%, #453a94 100%);
+}
+
+/*065 Burning Spring*/
+._65 {
+  background-image: linear-gradient(
+    to top,
+    #4fb576 0%,
+    #44c489 30%,
+    #28a9ae 46%,
+    #28a2b7 59%,
+    #4c7788 71%,
+    #6c4f63 86%,
+    #432c39 100%
+  );
+}
+
+/*066 Night Party*/
+._66 {
+  background-image: linear-gradient(to top, #0250c5 0%, #d43f8d 100%);
+}
+
+/*067 Sky Glider*/
+._67 {
+  background-image: linear-gradient(to top, #88d3ce 0%, #6e45e2 100%);
+}
+
+/*068 Heaven Peach*/
+._68 {
+  background-image: linear-gradient(to top, #d9afd9 0%, #97d9e1 100%);
+}
+
+/*069 Purple Division*/
+._69 {
+  background-image: linear-gradient(to top, #7028e4 0%, #e5b2ca 100%);
+}
+
+/*070 Aqua Splash*/
+._70 {
+  background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+}
+
+/*071 Above Clouds*/
+._71 {
+  background-image: linear-gradient(to left, #bdbbbe 0%, #9d9ea3 100%),
+    radial-gradient(
+      88% 271%,
+      rgba(255, 255, 255, 0.25) 0%,
+      rgba(254, 254, 254, 0.25) 1%,
+      rgba(0, 0, 0, 0.25) 100%
+    ),
+    radial-gradient(
+      50% 100%,
+      rgba(255, 255, 255, 0.3) 0%,
+      rgba(0, 0, 0, 0.3) 100%
+    );
+  background-blend-mode: normal, lighten, soft-light;
+}
+
+/*072 Spiky Naga*/
+._72 {
+  background-image: linear-gradient(
+    to top,
+    #505285 0%,
+    #585e92 12%,
+    #65689f 25%,
+    #7474b0 37%,
+    #7e7ebb 50%,
+    #8389c7 62%,
+    #9795d4 75%,
+    #a2a1dc 87%,
+    #b5aee4 100%
+  );
+}
+
+/*073 Love Kiss*/
+._73 {
+  background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+}
+
+/*074 Sharp Glass*/
+._74 {
+  background: #c9ccd3
+    linear-gradient(
+      -180deg,
+      rgba(255, 255, 255, 0.5) 0%,
+      rgba(0, 0, 0, 0.5) 100%
+    );
+  background-blend-mode: lighten;
+}
+
+/*075 Clean Mirror*/
+._75 {
+  background-image: linear-gradient(45deg, #93a5cf 0%, #e4efe9 100%);
+}
+
+/*076 Premium Dark*/
+._76 {
+  background-image: linear-gradient(to right, #434343 0%, black 100%);
+}
+
+/*077 Cold Evening*/
+._77 {
+  background-image: linear-gradient(
+    to top,
+    #0c3483 0%,
+    #a2b6df 100%,
+    #6b8cce 100%,
+    #a2b6df 100%
+  );
+}
+
+/*078 Cochiti Lake*/
+._78 {
+  background-image: linear-gradient(45deg, #93a5cf 0%, #e4efe9 100%);
+}
+
+/*079 Summer Games*/
+._79 {
+  background-image: linear-gradient(to right, #92fe9d 0%, #00c9ff 100%);
+}
+
+/*080 Passionate Bed*/
+._80 {
+  background-image: linear-gradient(to right, #ff758c 0%, #ff7eb3 100%);
+}
+
+/*081 Mountain Rock*/
+._81 {
+  background-image: linear-gradient(to right, #868f96 0%, #596164 100%);
+}
+
+/*082 Desert Hump*/
+._82 {
+  background-image: linear-gradient(to top, #c79081 0%, #dfa579 100%);
+}
+
+/*083 Jungle Day*/
+._83 {
+  background-image: linear-gradient(45deg, #8baaaa 0%, #ae8b9c 100%);
+}
+
+/*084 Phoenix Start*/
+._84 {
+  background-image: linear-gradient(to right, #f83600 0%, #f9d423 100%);
+}
+
+/*085 October Silence*/
+._85 {
+  background-image: linear-gradient(-20deg, #b721ff 0%, #21d4fd 100%);
+}
+
+/*086 Faraway River*/
+._86 {
+  background-image: linear-gradient(-20deg, #6e45e2 0%, #88d3ce 100%);
+}
+
+/*087 Alchemist Lab*/
+._87 {
+  background-image: linear-gradient(-20deg, #d558c8 0%, #24d292 100%);
+}
+
+/*088 Over Sun*/
+._88 {
+  background-image: linear-gradient(60deg, #abecd6 0%, #fbed96 100%);
+}
+
+/*089 Premium White*/
+._89 {
+  background-image: linear-gradient(
+    to top,
+    #d5d4d0 0%,
+    #d5d4d0 1%,
+    #eeeeec 31%,
+    #efeeec 75%,
+    #e9e9e7 100%
+  );
+}
+
+/*090 Mars Party*/
+._90 {
+  background-image: linear-gradient(to top, #5f72bd 0%, #9b23ea 100%);
+}
+
+/*091 Eternal Constance*/
+._91 {
+  background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+}
+
+/*092 Japan Blush*/
+._92 {
+  background-image: linear-gradient(
+    -20deg,
+    #ddd6f3 0%,
+    #faaca8 100%,
+    #faaca8 100%
+  );
+}
+
+/*093 Smiling Rain*/
+._93 {
+  background-image: linear-gradient(-20deg, #dcb0ed 0%, #99c99c 100%);
+}
+
+/*094 Cloudy Apple*/
+._94 {
+  background-image: linear-gradient(
+    to top,
+    #f3e7e9 0%,
+    #e3eeff 99%,
+    #e3eeff 100%
+  );
+}
+
+/*095 Big Mango*/
+._95 {
+  background-image: linear-gradient(to top, #c71d6f 0%, #d09693 100%);
+}
+
+/*096 Healthy Water*/
+._96 {
+  background-image: linear-gradient(60deg, #96deda 0%, #50c9c3 100%);
+}
+
+/*097 Amour Amour*/
+._97 {
+  background-image: linear-gradient(to top, #f77062 0%, #fe5196 100%);
+}
+
+/*098 Risky Concrete*/
+._98 {
+  background-image: linear-gradient(
+    to top,
+    #c4c5c7 0%,
+    #dcdddf 52%,
+    #ebebeb 100%
+  );
+}
+
+/*099 Strong Stick*/
+._99 {
+  background-image: linear-gradient(to right, #a8caba 0%, #5d4157 100%);
+}
+
+/*100 Vicious Stance*/
+._100 {
+  background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+}
+
+/*101 Palo Alto*/
+._101 {
+  background-image: linear-gradient(-60deg, #16a085 0%, #f4d03f 100%);
+}
+
+/*102 Happy Memories*/
+._102 {
+  background-image: linear-gradient(-60deg, #ff5858 0%, #f09819 100%);
+}
+
+/*103 Midnight Bloom*/
+._103 {
+  background-image: linear-gradient(-20deg, #2b5876 0%, #4e4376 100%);
+}
+
+/*104 Crystalline*/
+._104 {
+  background-image: linear-gradient(-20deg, #00cdac 0%, #8ddad5 100%);
+}
+
+/*105 Raccoon Back*/
+._105 {
+  background: linear-gradient(-180deg, #bcc5ce 0%, #929ead 98%),
+    radial-gradient(
+      at top left,
+      rgba(255, 255, 255, 0.3) 0%,
+      rgba(0, 0, 0, 0.3) 100%
+    );
+  background-blend-mode: screen;
+}
+
+/*106 Party Bliss*/
+._106 {
+  background-image: linear-gradient(to top, #4481eb 0%, #04befe 100%);
+}
+
+/*107 Confident Cloud*/
+._107 {
+  background-image: linear-gradient(
+    to top,
+    #dad4ec 0%,
+    #dad4ec 1%,
+    #f3e7e9 100%
+  );
+}
+
+/*108 Le Cocktail*/
+._108 {
+  background-image: linear-gradient(45deg, #874da2 0%, #c43a30 100%);
+}
+
+/*109 River City*/
+._109 {
+  background-image: linear-gradient(to top, #4481eb 0%, #04befe 100%);
+}
+
+/*110 Frozen Berry*/
+._110 {
+  background-image: linear-gradient(to top, #e8198b 0%, #c7eafd 100%);
+}
+
+/*111 Elegance*/
+._111 {
+  background-image: radial-gradient(73% 147%, #eadfdf 59%, #ece2df 100%),
+    radial-gradient(
+      91% 146%,
+      rgba(255, 255, 255, 0.5) 47%,
+      rgba(0, 0, 0, 0.5) 100%
+    );
+  background-blend-mode: screen;
+}
+
+/*112 Child Care*/
+._112 {
+  background-image: linear-gradient(-20deg, #f794a4 0%, #fdd6bd 100%);
+}
+
+/*113 Flying Lemon*/
+._113 {
+  background-image: linear-gradient(60deg, #64b3f4 0%, #c2e59c 100%);
+}
+
+/*114 New Retrowave*/
+._114 {
+  background-image: linear-gradient(
+    to top,
+    #3b41c5 0%,
+    #a981bb 49%,
+    #ffc8a9 100%
+  );
+}
+
+/*115 Hidden Jaguar*/
+._115 {
+  background-image: linear-gradient(to top, #0fd850 0%, #f9f047 100%);
+}
+
+/*116 Above The Sky*/
+._116 {
+  background-image: linear-gradient(
+    to top,
+    lightgrey 0%,
+    lightgrey 1%,
+    #e0e0e0 26%,
+    #efefef 48%,
+    #d9d9d9 75%,
+    #bcbcbc 100%
+  );
+}
+
+/*117 Nega*/
+._117 {
+  background-image: linear-gradient(45deg, #ee9ca7 0%, #ffdde1 100%);
+}
+
+/*118 Dense Water*/
+._118 {
+  background-image: linear-gradient(
+    to right,
+    #3ab5b0 0%,
+    #3d99be 31%,
+    #56317a 100%
+  );
+}
+
+/*119 Chemic Aqua*/
+._119 {
+  background-color: #cddcdc;
+  background-image: radial-gradient(
+      at 50% 100%,
+      rgba(255, 255, 255, 0.5) 0%,
+      rgba(0, 0, 0, 0.5) 100%
+    ),
+    linear-gradient(
+      to bottom,
+      rgba(255, 255, 255, 0.25) 0%,
+      rgba(0, 0, 0, 0.25) 100%
+    );
+  background-blend-mode: screen, overlay;
+}
+
+/*120 Seashore*/
+._120 {
+  background-image: linear-gradient(to top, #209cff 0%, #68e0cf 100%);
+}
+
+/*121 Marble Wall*/
+._121 {
+  background-image: linear-gradient(
+    to top,
+    #bdc2e8 0%,
+    #bdc2e8 1%,
+    #e6dee9 100%
+  );
+}
+
+/*122 Cheerful Caramel*/
+._122 {
+  background-image: linear-gradient(to top, #e6b980 0%, #eacda3 100%);
+}
+
+/*123 Night Sky*/
+._123 {
+  background-image: linear-gradient(
+    to top,
+    #1e3c72 0%,
+    #1e3c72 1%,
+    #2a5298 100%
+  );
+}
+
+/*124 Magic Lake*/
+._124 {
+  background-image: linear-gradient(
+    to top,
+    #d5dee7 0%,
+    #ffafbd 0%,
+    #c9ffbf 100%
+  );
+}
+
+/*125 Young Grass*/
+._125 {
+  background-image: linear-gradient(to top, #9be15d 0%, #00e3ae 100%);
+}
+
+/*126 Colorful Peach*/
+._126 {
+  background-image: linear-gradient(to right, #ed6ea0 0%, #ec8c69 100%);
+}
+
+/*127 Gentle Care*/
+._127 {
+  background-image: linear-gradient(to right, #ffc3a0 0%, #ffafbd 100%);
+}
+
+/*128 Plum Bath*/
+._128 {
+  background-image: linear-gradient(to top, #cc208e 0%, #6713d2 100%);
+}
+
+/*129 Happy Unicorn*/
+._129 {
+  background-image: linear-gradient(to top, #b3ffab 0%, #12fff7 100%);
+}
+
+/*130 Full Metal*/
+._130 {
+  background: linear-gradient(to bottom, #d5dee7 0%, #e8ebf2 50%, #e2e7ed 100%),
+    linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0.02) 50%,
+      rgba(255, 255, 255, 0.02) 61%,
+      rgba(0, 0, 0, 0.02) 73%
+    ),
+    linear-gradient(33deg, rgba(255, 255, 255, 0.2) 0%, rgba(0, 0, 0, 0.2) 100%);
+  background-blend-mode: normal, color-burn;
+}
+
+/*131 African Field*/
+._131 {
+  background-image: linear-gradient(
+    to top,
+    #65bd60 0%,
+    #5ac1a8 25%,
+    #3ec6ed 50%,
+    #b7ddb7 75%,
+    #fef381 100%
+  );
+}
+
+/*132 Solid Stone*/
+._132 {
+  background-image: linear-gradient(to right, #243949 0%, #517fa4 100%);
+}
+
+/*133 Orange Juice*/
+._133 {
+  background-image: linear-gradient(-20deg, #fc6076 0%, #ff9a44 100%);
+}
+
+/*134 Glass Water*/
+._134 {
+  background-image: linear-gradient(to top, #dfe9f3 0%, white 100%);
+}
+
+/*135 Slick Carbon*/
+._135 {
+  background: linear-gradient(to bottom, #323232 0%, #3f3f3f 40%, #1c1c1c 150%),
+    linear-gradient(
+      to top,
+      rgba(255, 255, 255, 0.4) 0%,
+      rgba(0, 0, 0, 0.25) 200%
+    );
+  background-blend-mode: multiply;
+}
+
+/*136 North Miracle*/
+._136 {
+  background-image: linear-gradient(to right, #00dbde 0%, #fc00ff 100%);
+}
+
+/*137 Fruit Blend*/
+._137 {
+  background-image: linear-gradient(to right, #f9d423 0%, #ff4e50 100%);
+}
+
+/*138 Millennium Pine*/
+._138 {
+  background-image: linear-gradient(to top, #50cc7f 0%, #f5d100 100%);
+}
+
+/*139 High Flight*/
+._139 {
+  background-image: linear-gradient(to right, #0acffe 0%, #495aff 100%);
+}
+
+/*140 Mole Hall*/
+._140 {
+  background-image: linear-gradient(-20deg, #616161 0%, #9bc5c3 100%);
+}
+
+/*141 Earl Gray*/
+._141 {
+  background-color: #e4e4e1;
+  background-image: radial-gradient(
+      at top center,
+      rgba(255, 255, 255, 0.03) 0%,
+      rgba(0, 0, 0, 0.03) 100%
+    ),
+    linear-gradient(
+      to top,
+      rgba(255, 255, 255, 0.1) 0%,
+      rgba(143, 152, 157, 0.6) 100%
+    );
+  background-blend-mode: normal, multiply;
+}
+
+/*142 Space Shift*/
+._142 {
+  background-image: linear-gradient(
+    60deg,
+    #3d3393 0%,
+    #2b76b9 37%,
+    #2cacd1 65%,
+    #35eb93 100%
+  );
+}
+
+/*143 Forest Inei*/
+._143 {
+  background-image: linear-gradient(to top, #df89b5 0%, #bfd9fe 100%);
+}
+
+/*144 Royal Garden*/
+._144 {
+  background-image: linear-gradient(to right, #ed6ea0 0%, #ec8c69 100%);
+}
+
+/*145 Rich Metal*/
+._145 {
+  background-image: linear-gradient(to right, #d7d2cc 0%, #304352 100%);
+}
+
+/*146 Juicy Cake*/
+._146 {
+  background-image: linear-gradient(to top, #e14fad 0%, #f9d423 100%);
+}
+
+/*147 Smart Indigo*/
+._147 {
+  background-image: linear-gradient(to top, #b224ef 0%, #7579ff 100%);
+}
+
+/*148 Sand Strike*/
+._148 {
+  background-image: linear-gradient(
+    to right,
+    #c1c161 0%,
+    #c1c161 0%,
+    #d4d4b1 100%
+  );
+}
+
+/*149 Norse Beauty*/
+._149 {
+  background-image: linear-gradient(to right, #ec77ab 0%, #7873f5 100%);
+}
+
+/*150 Aqua Guidance*/
+._150 {
+  background-image: linear-gradient(to top, #007adf 0%, #00ecbc 100%);
+}
+
+/*151 Sun Veggie*/
+._151 {
+  background-image: linear-gradient(-225deg, #20e2d7 0%, #f9fea5 100%);
+}
+
+/*152 Sea Lord*/
+._152 {
+  background-image: linear-gradient(
+    -225deg,
+    #2cd8d5 0%,
+    #c5c1ff 56%,
+    #ffbac3 100%
+  );
+}
+
+/*153 Black Sea*/
+._153 {
+  background-image: linear-gradient(
+    -225deg,
+    #2cd8d5 0%,
+    #6b8dd6 48%,
+    #8e37d7 100%
+  );
+}
+
+/*154 Grass Shampoo*/
+._154 {
+  background-image: linear-gradient(
+    -225deg,
+    #dfffcd 0%,
+    #90f9c4 48%,
+    #39f3bb 100%
+  );
+}
+
+/*155 Landing Aircraft*/
+._155 {
+  background-image: linear-gradient(
+    -225deg,
+    #5d9fff 0%,
+    #b8dcff 48%,
+    #6bbbff 100%
+  );
+}
+
+/*156 Witch Dance*/
+._156 {
+  background-image: linear-gradient(-225deg, #a8bfff 0%, #884d80 100%);
+}
+
+/*157 Sleepless Night*/
+._157 {
+  background-image: linear-gradient(
+    -225deg,
+    #5271c4 0%,
+    #b19fff 48%,
+    #eca1fe 100%
+  );
+}
+
+/*158 Angel Care*/
+._158 {
+  background-image: linear-gradient(
+    -225deg,
+    #ffe29f 0%,
+    #ffa99f 48%,
+    #ff719a 100%
+  );
+}
+
+/*159 Crystal River*/
+._159 {
+  background-image: linear-gradient(
+    -225deg,
+    #22e1ff 0%,
+    #1d8fe1 48%,
+    #625eb1 100%
+  );
+}
+
+/*160 Soft Lipstick*/
+._160 {
+  background-image: linear-gradient(-225deg, #b6cee8 0%, #f578dc 100%);
+}
+
+/*161 Salt Mountain*/
+._161 {
+  background-image: linear-gradient(-225deg, #fffeff 0%, #d7fffe 100%);
+}
+
+/*162 Perfect White*/
+._162 {
+  background-image: linear-gradient(-225deg, #e3fdf5 0%, #ffe6fa 100%);
+}
+
+/*163 Fresh Oasis*/
+._163 {
+  background-image: linear-gradient(-225deg, #7de2fc 0%, #b9b6e5 100%);
+}
+
+/*164 Strict November*/
+._164 {
+  background-image: linear-gradient(-225deg, #cbbacc 0%, #2580b3 100%);
+}
+
+/*165 Morning Salad*/
+._165 {
+  background-image: linear-gradient(-225deg, #b7f8db 0%, #50a7c2 100%);
+}
+
+/*166 Deep Relief*/
+._166 {
+  background-image: linear-gradient(
+    -225deg,
+    #7085b6 0%,
+    #87a7d9 50%,
+    #def3f8 100%
+  );
+}
+
+/*167 Sea Strike*/
+._167 {
+  background-image: linear-gradient(
+    -225deg,
+    #77ffd2 0%,
+    #6297db 48%,
+    #1eecff 100%
+  );
+}
+
+/*168 Night Call*/
+._168 {
+  background-image: linear-gradient(
+    -225deg,
+    #ac32e4 0%,
+    #7918f2 48%,
+    #4801ff 100%
+  );
+}
+
+/*169 Supreme Sky*/
+._169 {
+  background-image: linear-gradient(
+    -225deg,
+    #d4ffec 0%,
+    #57f2cc 48%,
+    #4596fb 100%
+  );
+}
+
+/*170 Light Blue*/
+._170 {
+  background-image: linear-gradient(
+    -225deg,
+    #9efbd3 0%,
+    #57e9f2 48%,
+    #45d4fb 100%
+  );
+}
+
+/*171 Mind Crawl*/
+._171 {
+  background-image: linear-gradient(
+    -225deg,
+    #473b7b 0%,
+    #3584a7 51%,
+    #30d2be 100%
+  );
+}
+
+/*172 Lily Meadow*/
+._172 {
+  background-image: linear-gradient(
+    -225deg,
+    #65379b 0%,
+    #886aea 53%,
+    #6457c6 100%
+  );
+}
+
+/*173 Sugar Lollipop*/
+._173 {
+  background-image: linear-gradient(
+    -225deg,
+    #a445b2 0%,
+    #d41872 52%,
+    #ff0066 100%
+  );
+}
+
+/*174 Sweet Dessert*/
+._174 {
+  background-image: linear-gradient(
+    -225deg,
+    #7742b2 0%,
+    #f180ff 52%,
+    #fd8bd9 100%
+  );
+}
+
+/*175 Magic Ray*/
+._175 {
+  background-image: linear-gradient(
+    -225deg,
+    #ff3cac 0%,
+    #562b7c 52%,
+    #2b86c5 100%
+  );
+}
+
+/*176 Teen Party*/
+._176 {
+  background-image: linear-gradient(
+    -225deg,
+    #ff057c 0%,
+    #8d0b93 50%,
+    #321575 100%
+  );
+}
+
+/*177 Frozen Heat*/
+._177 {
+  background-image: linear-gradient(
+    -225deg,
+    #ff057c 0%,
+    #7c64d5 48%,
+    #4cc3ff 100%
+  );
+}
+
+/*178 Gagarin View*/
+._178 {
+  background-image: linear-gradient(
+    -225deg,
+    #69eacb 0%,
+    #eaccf8 48%,
+    #6654f1 100%
+  );
+}
+
+/*179 Fabled Sunset*/
+._179 {
+  background-image: linear-gradient(
+    -225deg,
+    #231557 0%,
+    #44107a 29%,
+    #ff1361 67%,
+    #fff800 100%
+  );
+}
+
+/*180 Perfect Blue*/
+._180 {
+  background-image: linear-gradient(
+    -225deg,
+    #3d4e81 0%,
+    #5753c9 48%,
+    #6e7ff3 100%
+  );
+}
+
+/* From Ui Gradients */
+/* https://uigradients.com */
+
+/*181 Omolon*/
+._181 {
+  background-image: linear-gradient(to right, #091e3a, #2f80ed, #2d9ee0);
+}
+
+/*182 Farhan*/
+._182 {
+  background-image: linear-gradient(to right, #9400d3, #4b0082);
+}
+
+/*183 Purple*/
+._183 {
+  background-image: linear-gradient(to right, #c84e89, #f15f79);
+}
+
+/*184 Ibtesam*/
+._184 {
+  background-image: linear-gradient(to right, #00f5a0, #00d9f5);
+}
+
+/*185 Radioactive Heat*/
+._185 {
+  background-image: linear-gradient(to right, #f7941e, #72c6ef, #00a651);
+}
+
+/*186 The Sky And The Sea*/
+._186 {
+  background-image: linear-gradient(to right, #f7941e, #004e8f);
+}
+
+/*187 From Ice To Fire*/
+._187 {
+  background-image: linear-gradient(to right, #72c6ef, #004e8f);
+}
+
+/*188 Blue & Orange*/
+._188 {
+  background-image: linear-gradient(to right, #fd8112, #0085ca);
+}
+
+/*189 Purple Dream*/
+._189 {
+  background-image: linear-gradient(to right, #bf5ae0, #a811da);
+}
+
+/*190 Blu*/
+._190 {
+  background-image: linear-gradient(to right, #00416a, #e4e5e6);
+}
+
+/*191 Summer Breeze*/
+._191 {
+  background-image: linear-gradient(to right, #fbed96, #abecd6);
+}
+
+/*192 Ver*/
+._192 {
+  background-image: linear-gradient(to right, #ffe000, #799f0c);
+}
+
+/*193 Ver Black*/
+._193 {
+  background-image: linear-gradient(to right, #f7f8f8, #acbb78);
+}
+
+/*194 Combi*/
+._194 {
+  background-image: linear-gradient(to right, #00416a, #799f0c, #ffe000);
+}
+
+/*195 Anwar*/
+._195 {
+  background-image: linear-gradient(to right, #334d50, #cbcaa5);
+}
+
+/*196 Bluelagoo*/
+._196 {
+  background-image: linear-gradient(to right, #0052d4, #4364f7, #6fb1fc);
+}
+
+/*197 Lunada*/
+._197 {
+  background-image: linear-gradient(to right, #5433ff, #20bdff, #a5fecb);
+}
+
+/*198 Reaqua*/
+._198 {
+  background-image: linear-gradient(to right, #799f0c, #acbb78);
+}
+
+/*199 Mango*/
+._199 {
+  background-image: linear-gradient(to right, #ffe259, #ffa751);
+}
+
+/*200 Bupe*/
+._200 {
+  background-image: linear-gradient(to right, #00416a, #e4e5e6);
+}
+
+/*201 Rea*/
+._201 {
+  background-image: linear-gradient(to right, #ffe000, #799f0c);
+}
+
+/*202 Windy*/
+._202 {
+  background-image: linear-gradient(to right, #acb6e5, #86fde8);
+}
+
+/*203 Royal Blue*/
+._203 {
+  background-image: linear-gradient(to right, #536976, #292e49);
+}
+
+/*204 Royal Blue + Petrol*/
+._204 {
+  background-image: linear-gradient(to right, #bbd2c5, #536976, #292e49);
+}
+
+/*205 Copper*/
+._205 {
+  background-image: linear-gradient(to right, #b79891, #94716b);
+}
+
+/*206 Anamnisar*/
+._206 {
+  background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+}
+
+/*207 Petrol*/
+._207 {
+  background-image: linear-gradient(to right, #bbd2c5, #536976);
+}
+
+/*208 Sky*/
+._208 {
+  background-image: linear-gradient(to right, #076585, #fff);
+}
+
+/*209 Sel*/
+._209 {
+  background-image: linear-gradient(to right, #00467f, #a5cc82);
+}
+
+/*210 Afternoon*/
+._210 {
+  background-image: linear-gradient(to right, #000c40, #607d8b);
+}
+
+/*211 Skyline*/
+._211 {
+  background-image: linear-gradient(to right, #1488cc, #2b32b2);
+}
+
+/*212 DIMIGO*/
+._212 {
+  background-image: linear-gradient(to right, #ec008c, #fc6767);
+}
+
+/*213 Purple Love*/
+._213 {
+  background-image: linear-gradient(to right, #cc2b5e, #753a88);
+}
+
+/*214 Sexy Blue*/
+._214 {
+  background-image: linear-gradient(to right, #2193b0, #6dd5ed);
+}
+
+/*215 Blooker20*/
+._215 {
+  background-image: linear-gradient(to right, #e65c00, #f9d423);
+}
+
+/*216 Sea Blue*/
+._216 {
+  background-image: linear-gradient(to right, #2b5876, #4e4376);
+}
+
+/*217 Nimvelo*/
+._217 {
+  background-image: linear-gradient(to right, #314755, #26a0da);
+}
+
+/*218 Hazel*/
+._218 {
+  background-image: linear-gradient(to right, #77a1d3, #79cbca, #e684ae);
+}
+
+/*219 Noon to Dusk*/
+._219 {
+  background-image: linear-gradient(to right, #ff6e7f, #bfe9ff);
+}
+
+/*220 YouTube*/
+._220 {
+  background-image: linear-gradient(to right, #e52d27, #b31217);
+}
+
+/*221 Cool Brown*/
+._221 {
+  background-image: linear-gradient(to right, #603813, #b29f94);
+}
+
+/*222 Harmonic Energy*/
+._222 {
+  background-image: linear-gradient(to right, #16a085, #f4d03f);
+}
+
+/*223 Playing with Reds*/
+._223 {
+  background-image: linear-gradient(to right, #d31027, #ea384d);
+}
+
+/*224 Sunny Days*/
+._224 {
+  background-image: linear-gradient(to right, #ede574, #e1f5c4);
+}
+
+/*225 Green Beach*/
+._225 {
+  background-image: linear-gradient(to right, #02aab0, #00cdac);
+}
+
+/*226 Intuitive Purple*/
+._226 {
+  background-image: linear-gradient(to right, #da22ff, #9733ee);
+}
+
+/*227 Emerald Water*/
+._227 {
+  background-image: linear-gradient(to right, #348f50, #56b4d3);
+}
+
+/*228 Lemon Twist*/
+._228 {
+  background-image: linear-gradient(to right, #3ca55c, #b5ac49);
+}
+
+/*229 Monte Carlo*/
+._229 {
+  background-image: linear-gradient(to right, #cc95c0, #dbd4b4, #7aa1d2);
+}
+
+/*230 Horizon*/
+._230 {
+  background-image: linear-gradient(to right, #003973, #e5e5be);
+}
+
+/*231 Rose Water*/
+._231 {
+  background-image: linear-gradient(to right, #e55d87, #5fc3e4);
+}
+
+/*232 Frozen*/
+._232 {
+  background-image: linear-gradient(to right, #403b4a, #e7e9bb);
+}
+
+/*233 Mango Pulp*/
+._233 {
+  background-image: linear-gradient(to right, #f09819, #edde5d);
+}
+
+/*234 Bloody Mary*/
+._234 {
+  background-image: linear-gradient(to right, #ff512f, #dd2476);
+}
+
+/*235 Aubergine*/
+._235 {
+  background-image: linear-gradient(to right, #aa076b, #61045f);
+}
+
+/*236 Aqua Marine*/
+._236 {
+  background-image: linear-gradient(to right, #1a2980, #26d0ce);
+}
+
+/*237 Sunrise*/
+._237 {
+  background-image: linear-gradient(to right, #ff512f, #f09819);
+}
+
+/*238 Purple Paradise*/
+._238 {
+  background-image: linear-gradient(to right, #1d2b64, #f8cdda);
+}
+
+/*239 Stripe*/
+._239 {
+  background-image: linear-gradient(to right, #1fa2ff, #12d8fa, #a6ffcb);
+}
+
+/*240 Sea Weed*/
+._240 {
+  background-image: linear-gradient(to right, #4cb8c4, #3cd3ad);
+}
+
+/*241 Pinky*/
+._241 {
+  background-image: linear-gradient(to right, #dd5e89, #f7bb97);
+}
+
+/*242 Cherry*/
+._242 {
+  background-image: linear-gradient(to right, #eb3349, #f45c43);
+}
+
+/*243 Mojito*/
+._243 {
+  background-image: linear-gradient(to right, #1d976c, #93f9b9);
+}
+
+/*244 Juicy Orange*/
+._244 {
+  background-image: linear-gradient(to right, #ff8008, #ffc837);
+}
+
+/*245 Mirage*/
+._245 {
+  background-image: linear-gradient(to right, #16222a, #3a6073);
+}
+
+/*246 Steel Gray*/
+._246 {
+  background-image: linear-gradient(to right, #1f1c2c, #928dab);
+}
+
+/*247 Kashmir*/
+._247 {
+  background-image: linear-gradient(to right, #614385, #516395);
+}
+
+/*248 Electric Violet*/
+._248 {
+  background-image: linear-gradient(to right, #4776e6, #8e54e9);
+}
+
+/*249 Venice Blue*/
+._249 {
+  background-image: linear-gradient(to right, #085078, #85d8ce);
+}
+
+/*250 Bora Bora*/
+._250 {
+  background-image: linear-gradient(to right, #2bc0e4, #eaecc6);
+}
+
+/*251 Moss*/
+._251 {
+  background-image: linear-gradient(to right, #134e5e, #71b280);
+}
+
+/*252 Shroom Haze*/
+._252 {
+  background-image: linear-gradient(to right, #5c258d, #4389a2);
+}
+
+/*253 Mystic*/
+._253 {
+  background-image: linear-gradient(to right, #757f9a, #d7dde8);
+}
+
+/*254 Midnight City*/
+._254 {
+  background-image: linear-gradient(to right, #232526, #414345);
+}
+
+/*255 Sea Blizz*/
+._255 {
+  background-image: linear-gradient(to right, #1cd8d2, #93edc7);
+}
+
+/*256 Opa*/
+._256 {
+  background-image: linear-gradient(to right, #3d7eaa, #ffe47a);
+}
+
+/*257 Titanium*/
+._257 {
+  background-image: linear-gradient(to right, #283048, #859398);
+}
+
+/*258 Mantle*/
+._258 {
+  background-image: linear-gradient(to right, #24c6dc, #514a9d);
+}
+
+/*259 Dracula*/
+._259 {
+  background-image: linear-gradient(to right, #dc2424, #4a569d);
+}
+
+/*260 Peach*/
+._260 {
+  background-image: linear-gradient(to right, #ed4264, #ffedbc);
+}
+
+/*261 Moonrise*/
+._261 {
+  background-image: linear-gradient(to right, #dae2f8, #d6a4a4);
+}
+
+/*262 Clouds*/
+._262 {
+  background-image: linear-gradient(to right, #ece9e6, #ffffff);
+}
+
+/*263 Stellar*/
+._263 {
+  background-image: linear-gradient(to right, #7474bf, #348ac7);
+}
+
+/*264 Bourbon*/
+._264 {
+  background-image: linear-gradient(to right, #ec6f66, #f3a183);
+}
+
+/*265 Calm Darya*/
+._265 {
+  background-image: linear-gradient(to right, #5f2c82, #49a09d);
+}
+
+/*266 Influenza*/
+._266 {
+  background-image: linear-gradient(to right, #c04848, #480048);
+}
+
+/*267 Shrimpy*/
+._267 {
+  background-image: linear-gradient(to right, #e43a15, #e65245);
+}
+
+/*268 Army*/
+._268 {
+  background-image: linear-gradient(to right, #414d0b, #727a17);
+}
+
+/*269 Miaka*/
+._269 {
+  background-image: linear-gradient(to right, #fc354c, #0abfbc);
+}
+
+/*270 Pinot Noir*/
+._270 {
+  background-image: linear-gradient(to right, #4b6cb7, #182848);
+}
+
+/*271 Day Tripper*/
+._271 {
+  background-image: linear-gradient(to right, #f857a6, #ff5858);
+}
+
+/*272 Namn*/
+._272 {
+  background-image: linear-gradient(to right, #a73737, #7a2828);
+}
+
+/*273 Blurry Beach*/
+._273 {
+  background-image: linear-gradient(to right, #d53369, #cbad6d);
+}
+
+/*274 Vasily*/
+._274 {
+  background-image: linear-gradient(to right, #e9d362, #333333);
+}
+
+/*275 A Lost Memory*/
+._275 {
+  background-image: linear-gradient(to right, #de6262, #ffb88c);
+}
+
+/*276 Petrichor*/
+._276 {
+  background-image: linear-gradient(to right, #666600, #999966);
+}
+
+/*277 Jonquil*/
+._277 {
+  background-image: linear-gradient(to right, #ffeeee, #ddefbb);
+}
+
+/*278 Sirius Tamed*/
+._278 {
+  background-image: linear-gradient(to right, #efefbb, #d4d3dd);
+}
+
+/*279 Kyoto*/
+._279 {
+  background-image: linear-gradient(to right, #c21500, #ffc500);
+}
+
+/*280 Misty Meadow*/
+._280 {
+  background-image: linear-gradient(to right, #215f00, #e4e4d9);
+}
+
+/*281 Aqualicious*/
+._281 {
+  background-image: linear-gradient(to right, #50c9c3, #96deda);
+}
+
+/*282 Moor*/
+._282 {
+  background-image: linear-gradient(to right, #616161, #9bc5c3);
+}
+
+/*283 Almost*/
+._283 {
+  background-image: linear-gradient(to right, #ddd6f3, #faaca8);
+}
+
+/*284 Forever Lost*/
+._284 {
+  background-image: linear-gradient(to right, #5d4157, #a8caba);
+}
+
+/*285 Winter*/
+._285 {
+  background-image: linear-gradient(to right, #e6dada, #274046);
+}
+
+/*286 Nelson*/
+._286 {
+  background-image: linear-gradient(to right, #f2709c, #ff9472);
+}
+
+/*287 Autumn*/
+._287 {
+  background-image: linear-gradient(to right, #dad299, #b0dab9);
+}
+
+/*288 Candy*/
+._288 {
+  background-image: linear-gradient(to right, #d3959b, #bfe6ba);
+}
+
+/*289 Reef*/
+._289 {
+  background-image: linear-gradient(to right, #00d2ff, #3a7bd5);
+}
+
+/*290 The Strain*/
+._290 {
+  background-image: linear-gradient(to right, #870000, #190a05);
+}
+
+/*291 Dirty Fog*/
+._291 {
+  background-image: linear-gradient(to right, #b993d6, #8ca6db);
+}
+
+/*292 Earthly*/
+._292 {
+  background-image: linear-gradient(to right, #649173, #dbd5a4);
+}
+
+/*293 Virgin*/
+._293 {
+  background-image: linear-gradient(to right, #c9ffbf, #ffafbd);
+}
+
+/*294 Ash*/
+._294 {
+  background-image: linear-gradient(to right, #606c88, #3f4c6b);
+}
+
+/*295 Cherryblossoms*/
+._295 {
+  background-image: linear-gradient(to right, #fbd3e9, #bb377d);
+}
+
+/*296 Parklife*/
+._296 {
+  background-image: linear-gradient(to right, #add100, #7b920a);
+}
+
+/*297 Dance To Forget*/
+._297 {
+  background-image: linear-gradient(to right, #ff4e50, #f9d423);
+}
+
+/*298 Starfall*/
+._298 {
+  background-image: linear-gradient(to right, #f0c27b, #4b1248);
+}
+
+/*299 Red Mist*/
+._299 {
+  background-image: linear-gradient(to right, #000000, #e74c3c);
+}
+
+/*300 Teal Love*/
+._300 {
+  background-image: linear-gradient(to right, #aaffa9, #11ffbd);
+}
+
+/*301 Neon Life*/
+._301 {
+  background-image: linear-gradient(to right, #b3ffab, #12fff7);
+}
+
+/*302 Man of Steel*/
+._302 {
+  background-image: linear-gradient(to right, #780206, #061161);
+}
+
+/*303 Amethyst*/
+._303 {
+  background-image: linear-gradient(to right, #9d50bb, #6e48aa);
+}
+
+/*304 Cheer Up Emo Kid*/
+._304 {
+  background-image: linear-gradient(to right, #556270, #ff6b6b);
+}
+
+/*305 Shore*/
+._305 {
+  background-image: linear-gradient(to right, #70e1f5, #ffd194);
+}
+
+/*306 Facebook Messenger*/
+._306 {
+  background-image: linear-gradient(to right, #00c6ff, #0072ff);
+}
+
+/*307 SoundCloud*/
+._307 {
+  background-image: linear-gradient(to right, #fe8c00, #f83600);
+}
+
+/*308 Behongo*/
+._308 {
+  background-image: linear-gradient(to right, #52c234, #061700);
+}
+
+/*309 ServQuick*/
+._309 {
+  background-image: linear-gradient(to right, #485563, #29323c);
+}
+
+/*310 Friday*/
+._310 {
+  background-image: linear-gradient(to right, #83a4d4, #b6fbff);
+}
+
+/*311 Martini*/
+._311 {
+  background-image: linear-gradient(to right, #fdfc47, #24fe41);
+}
+
+/*312 Metallic Toad*/
+._312 {
+  background-image: linear-gradient(to right, #abbaab, #ffffff);
+}
+
+/*313 Between The Clouds*/
+._313 {
+  background-image: linear-gradient(to right, #73c8a9, #373b44);
+}
+
+/*314 Crazy Orange I*/
+._314 {
+  background-image: linear-gradient(to right, #d38312, #a83279);
+}
+
+/*315 Hersheys*/
+._315 {
+  background-image: linear-gradient(to right, #1e130c, #9a8478);
+}
+
+/*316 Talking To Mice Elf*/
+._316 {
+  background-image: linear-gradient(to right, #948e99, #2e1437);
+}
+
+/*317 Purple Bliss*/
+._317 {
+  background-image: linear-gradient(to right, #360033, #0b8793);
+}
+
+/*318 Predawn*/
+._318 {
+  background-image: linear-gradient(to right, #ffa17f, #00223e);
+}
+
+/*319 Endless River*/
+._319 {
+  background-image: linear-gradient(to right, #43cea2, #185a9d);
+}
+
+/*320 Pastel Orange at the Sun*/
+._320 {
+  background-image: linear-gradient(to right, #ffb347, #ffcc33);
+}
+
+/*321 Twitch*/
+._321 {
+  background-image: linear-gradient(to right, #6441a5, #2a0845);
+}
+
+/*322 Atlas*/
+._322 {
+  background-image: linear-gradient(to right, #feac5e, #c779d0, #4bc0c8);
+}
+
+/*323 Instagram*/
+._323 {
+  background-image: linear-gradient(to right, #833ab4, #fd1d1d, #fcb045);
+}
+
+/*324 Flickr*/
+._324 {
+  background-image: linear-gradient(to right, #ff0084, #33001b);
+}
+
+/*325 Vine*/
+._325 {
+  background-image: linear-gradient(to right, #00bf8f, #001510);
+}
+
+/*326 Turquoise flow*/
+._326 {
+  background-image: linear-gradient(to right, #136a8a, #267871);
+}
+
+/*327 Portrait*/
+._327 {
+  background-image: linear-gradient(to right, #8e9eab, #eef2f3);
+}
+
+/*328 Virgin America*/
+._328 {
+  background-image: linear-gradient(to right, #7b4397, #dc2430);
+}
+
+/*329 Koko Caramel*/
+._329 {
+  background-image: linear-gradient(to right, #d1913c, #ffd194);
+}
+
+/*330 Fresh Turboscent*/
+._330 {
+  background-image: linear-gradient(to right, #f1f2b5, #135058);
+}
+
+/*331 Green to dark*/
+._331 {
+  background-image: linear-gradient(to right, #6a9113, #141517);
+}
+
+/*332 Ukraine*/
+._332 {
+  background-image: linear-gradient(to right, #004ff9, #fff94c);
+}
+
+/*333 Curiosity blue*/
+._333 {
+  background-image: linear-gradient(to right, #525252, #3d72b4);
+}
+
+/*334 Dark Knight*/
+._334 {
+  background-image: linear-gradient(to right, #ba8b02, #181818);
+}
+
+/*335 Piglet*/
+._335 {
+  background-image: linear-gradient(to right, #ee9ca7, #ffdde1);
+}
+
+/*336 Lizard*/
+._336 {
+  background-image: linear-gradient(to right, #304352, #d7d2cc);
+}
+
+/*337 Sage Persuasion*/
+._337 {
+  background-image: linear-gradient(to right, #ccccb2, #757519);
+}
+
+/*338 Between Night and Day*/
+._338 {
+  background-image: linear-gradient(to right, #2c3e50, #3498db);
+}
+
+/*339 Timber*/
+._339 {
+  background-image: linear-gradient(to right, #fc00ff, #00dbde);
+}
+
+/*340 Passion*/
+._340 {
+  background-image: linear-gradient(to right, #e53935, #e35d5b);
+}
+
+/*341 Clear Sky*/
+._341 {
+  background-image: linear-gradient(to right, #005c97, #363795);
+}
+
+/*342 Master Card*/
+._342 {
+  background-image: linear-gradient(to right, #f46b45, #eea849);
+}
+
+/*343 Back To Earth*/
+._343 {
+  background-image: linear-gradient(to right, #00c9ff, #92fe9d);
+}
+
+/*344 Deep Purple*/
+._344 {
+  background-image: linear-gradient(to right, #673ab7, #512da8);
+}
+
+/*345 Little Leaf*/
+._345 {
+  background-image: linear-gradient(to right, #76b852, #8dc26f);
+}
+
+/*346 Netflix*/
+._346 {
+  background-image: linear-gradient(to right, #8e0e00, #1f1c18);
+}
+
+/*347 Light Orange*/
+._347 {
+  background-image: linear-gradient(to right, #ffb75e, #ed8f03);
+}
+
+/*348 Green and Blue*/
+._348 {
+  background-image: linear-gradient(to right, #c2e59c, #64b3f4);
+}
+
+/*349 Poncho*/
+._349 {
+  background-image: linear-gradient(to right, #403a3e, #be5869);
+}
+
+/*350 Back to the Future*/
+._350 {
+  background-image: linear-gradient(to right, #c02425, #f0cb35);
+}
+
+/*351 Blush*/
+._351 {
+  background-image: linear-gradient(to right, #b24592, #f15f79);
+}
+
+/*352 Inbox*/
+._352 {
+  background-image: linear-gradient(to right, #457fca, #5691c8);
+}
+
+/*353 Purplin*/
+._353 {
+  background-image: linear-gradient(to right, #6a3093, #a044ff);
+}
+
+/*354 Pale Wood*/
+._354 {
+  background-image: linear-gradient(to right, #eacda3, #d6ae7b);
+}
+
+/*355 Haikus*/
+._355 {
+  background-image: linear-gradient(to right, #fd746c, #ff9068);
+}
+
+/*356 Pizelex*/
+._356 {
+  background-image: linear-gradient(to right, #114357, #f29492);
+}
+
+/*357 Joomla*/
+._357 {
+  background-image: linear-gradient(to right, #1e3c72, #2a5298);
+}
+
+/*358 Christmas*/
+._358 {
+  background-image: linear-gradient(to right, #2f7336, #aa3a38);
+}
+
+/*359 Minnesota Vikings*/
+._359 {
+  background-image: linear-gradient(to right, #5614b0, #dbd65c);
+}
+
+/*360 Miami Dolphins*/
+._360 {
+  background-image: linear-gradient(to right, #4da0b0, #d39d38);
+}
+
+/*361 Forest*/
+._361 {
+  background-image: linear-gradient(to right, #5a3f37, #2c7744);
+}
+
+/*362 Nighthawk*/
+._362 {
+  background-image: linear-gradient(to right, #2980b9, #2c3e50);
+}
+
+/*363 Superman*/
+._363 {
+  background-image: linear-gradient(to right, #0099f7, #f11712);
+}
+
+/*364 Suzy*/
+._364 {
+  background-image: linear-gradient(to right, #834d9b, #d04ed6);
+}
+
+/*365 Dark Skies*/
+._365 {
+  background-image: linear-gradient(to right, #4b79a1, #283e51);
+}
+
+/*366 Deep Space*/
+._366 {
+  background-image: linear-gradient(to right, #000000, #434343);
+}
+
+/*367 Decent*/
+._367 {
+  background-image: linear-gradient(to right, #4ca1af, #c4e0e5);
+}
+
+/*368 Colors Of Sky*/
+._368 {
+  background-image: linear-gradient(to right, #e0eafc, #cfdef3);
+}
+
+/*369 Purple White*/
+._369 {
+  background-image: linear-gradient(to right, #ba5370, #f4e2d8);
+}
+
+/*370 Ali*/
+._370 {
+  background-image: linear-gradient(to right, #ff4b1f, #1fddff);
+}
+
+/*371 Alihossein*/
+._371 {
+  background-image: linear-gradient(to right, #f7ff00, #db36a4);
+}
+
+/*372 Shahabi*/
+._372 {
+  background-image: linear-gradient(to right, #a80077, #66ff00);
+}
+
+/*373 Red Ocean*/
+._373 {
+  background-image: linear-gradient(to right, #1d4350, #a43931);
+}
+
+/*374 Tranquil*/
+._374 {
+  background-image: linear-gradient(to right, #eecda3, #ef629f);
+}
+
+/*375 Transfile*/
+._375 {
+  background-image: linear-gradient(to right, #16bffd, #cb3066);
+}
+
+/*376 Sylvia*/
+._376 {
+  background-image: linear-gradient(to right, #ff4b1f, #ff9068);
+}
+
+/*377 Sweet Morning*/
+._377 {
+  background-image: linear-gradient(to right, #ff5f6d, #ffc371);
+}
+
+/*378 Politics*/
+._378 {
+  background-image: linear-gradient(to right, #2196f3, #f44336);
+}
+
+/*379 Bright Vault*/
+._379 {
+  background-image: linear-gradient(to right, #00d2ff, #928dab);
+}
+
+/*380 Solid Vault*/
+._380 {
+  background-image: linear-gradient(to right, #3a7bd5, #3a6073);
+}
+
+/*381 Sunset*/
+._381 {
+  background-image: linear-gradient(to right, #0b486b, #f56217);
+}
+
+/*382 Grapefruit Sunset*/
+._382 {
+  background-image: linear-gradient(to right, #e96443, #904e95);
+}
+
+/*383 Deep Sea Space*/
+._383 {
+  background-image: linear-gradient(to right, #2c3e50, #4ca1af);
+}
+
+/*384 Dusk*/
+._384 {
+  background-image: linear-gradient(to right, #2c3e50, #fd746c);
+}
+
+/*385 Minimal Red*/
+._385 {
+  background-image: linear-gradient(to right, #f00000, #dc281e);
+}
+
+/*386 Royal*/
+._386 {
+  background-image: linear-gradient(to right, #141e30, #243b55);
+}
+
+/*387 Mauve*/
+._387 {
+  background-image: linear-gradient(to right, #42275a, #734b6d);
+}
+
+/*388 Frost*/
+._388 {
+  background-image: linear-gradient(to right, #000428, #004e92);
+}
+
+/*389 Lush*/
+._389 {
+  background-image: linear-gradient(to right, #56ab2f, #a8e063);
+}
+
+/*390 Firewatch*/
+._390 {
+  background-image: linear-gradient(to right, #cb2d3e, #ef473a);
+}
+
+/*391 Sherbert*/
+._391 {
+  background-image: linear-gradient(to right, #f79d00, #64f38c);
+}
+
+/*392 Blood Red*/
+._392 {
+  background-image: linear-gradient(to right, #f85032, #e73827);
+}
+
+/*393 Sun on the Horizon*/
+._393 {
+  background-image: linear-gradient(to right, #fceabb, #f8b500);
+}
+
+/*394 IIIT Delhi*/
+._394 {
+  background-image: linear-gradient(to right, #808080, #3fada8);
+}
+
+/*395 Jupiter*/
+._395 {
+  background-image: linear-gradient(to right, #ffd89b, #19547b);
+}
+
+/*396 50 Shades of Grey*/
+._396 {
+  background-image: linear-gradient(to right, #bdc3c7, #2c3e50);
+}
+
+/*397 Dania*/
+._397 {
+  background-image: linear-gradient(to right, #be93c5, #7bc6cc);
+}
+
+/*398 Limeade*/
+._398 {
+  background-image: linear-gradient(to right, #a1ffce, #faffd1);
+}
+
+/*399 Disco*/
+._399 {
+  background-image: linear-gradient(to right, #4ecdc4, #556270);
+}
+
+/*400 Love Couple*/
+._400 {
+  background-image: linear-gradient(to right, #3a6186, #89253e);
+}
+
+/*401 Azure Pop*/
+._401 {
+  background-image: linear-gradient(to right, #ef32d9, #89fffd);
+}
+
+/*402 Nepal*/
+._402 {
+  background-image: linear-gradient(to right, #de6161, #2657eb);
+}
+
+/*403 Cosmic Fusion*/
+._403 {
+  background-image: linear-gradient(to right, #ff00cc, #333399);
+}
+
+/*404 Snapchat*/
+._404 {
+  background-image: linear-gradient(to right, #fffc00, #ffffff);
+}
+
+/*405 Ed's Sunset Gradient*/
+._405 {
+  background-image: linear-gradient(to right, #ff7e5f, #feb47b);
+}
+
+/*406 Brady Brady Fun Fun*/
+._406 {
+  background-image: linear-gradient(to right, #00c3ff, #ffff1c);
+}
+
+/*407 Black Rosé*/
+._407 {
+  background-image: linear-gradient(to right, #f4c4f3, #fc67fa);
+}
+
+/*408 80's Purple*/
+._408 {
+  background-image: linear-gradient(to right, #41295a, #2f0743);
+}
+
+/*409 Radar*/
+._409 {
+  background-image: linear-gradient(to right, #a770ef, #cf8bf3, #fdb99b);
+}
+
+/*410 Ibiza Sunset*/
+._410 {
+  background-image: linear-gradient(to right, #ee0979, #ff6a00);
+}
+
+/*411 Dawn*/
+._411 {
+  background-image: linear-gradient(to right, #f3904f, #3b4371);
+}
+
+/*412 Mild*/
+._412 {
+  background-image: linear-gradient(to right, #67b26f, #4ca2cd);
+}
+
+/*413 Vice City*/
+._413 {
+  background-image: linear-gradient(to right, #3494e6, #ec6ead);
+}
+
+/*414 Jaipur*/
+._414 {
+  background-image: linear-gradient(to right, #dbe6f6, #c5796d);
+}
+
+/*415 Jodhpur*/
+._415 {
+  background-image: linear-gradient(to right, #9cecfb, #65c7f7, #0052d4);
+}
+
+/*416 Cocoaa Ice*/
+._416 {
+  background-image: linear-gradient(to right, #c0c0aa, #1cefff);
+}
+
+/*417 EasyMed*/
+._417 {
+  background-image: linear-gradient(to right, #dce35b, #45b649);
+}
+
+/*418 Rose Colored Lenses*/
+._418 {
+  background-image: linear-gradient(to right, #e8cbc0, #636fa4);
+}
+
+/*419 What lies Beyond*/
+._419 {
+  background-image: linear-gradient(to right, #f0f2f0, #000c40);
+}
+
+/*420 Roseanna*/
+._420 {
+  background-image: linear-gradient(to right, #ffafbd, #ffc3a0);
+}
+
+/*421 Honey Dew*/
+._421 {
+  background-image: linear-gradient(to right, #43c6ac, #f8ffae);
+}
+
+/*422 Under the Lake*/
+._422 {
+  background-image: linear-gradient(to right, #093028, #237a57);
+}
+
+/*423 The Blue Lagoon*/
+._423 {
+  background-image: linear-gradient(to right, #43c6ac, #191654);
+}
+
+/*424 Can You Feel The Love Tonight*/
+._424 {
+  background-image: linear-gradient(to right, #4568dc, #b06ab3);
+}
+
+/*425 Very Blue*/
+._425 {
+  background-image: linear-gradient(to right, #0575e6, #021b79);
+}
+
+/*426 Love and Liberty*/
+._426 {
+  background-image: linear-gradient(to right, #200122, #6f0000);
+}
+
+/*427 Orca*/
+._427 {
+  background-image: linear-gradient(to right, #44a08d, #093637);
+}
+
+/*428 Venice*/
+._428 {
+  background-image: linear-gradient(to right, #6190e8, #a7bfe8);
+}
+
+/*429 Pacific Dream*/
+._429 {
+  background-image: linear-gradient(to right, #34e89e, #0f3443);
+}
+
+/*430 Learning and Leading*/
+._430 {
+  background-image: linear-gradient(to right, #f7971e, #ffd200);
+}
+
+/*431 Celestial*/
+._431 {
+  background-image: linear-gradient(to right, #c33764, #1d2671);
+}
+
+/*432 Purplepine*/
+._432 {
+  background-image: linear-gradient(to right, #20002c, #cbb4d4);
+}
+
+/*433 Sha la la*/
+._433 {
+  background-image: linear-gradient(to right, #d66d75, #e29587);
+}
+
+/*434 Mini*/
+._434 {
+  background-image: linear-gradient(to right, #30e8bf, #ff8235);
+}
+
+/*435 Maldives*/
+._435 {
+  background-image: linear-gradient(to right, #b2fefa, #0ed2f7);
+}
+
+/*436 Cinnamint*/
+._436 {
+  background-image: linear-gradient(to right, #4ac29a, #bdfff3);
+}
+
+/*437 Html*/
+._437 {
+  background-image: linear-gradient(to right, #e44d26, #f16529);
+}
+
+/*438 Coal*/
+._438 {
+  background-image: linear-gradient(to right, #eb5757, #000000);
+}
+
+/*439 Sunkist*/
+._439 {
+  background-image: linear-gradient(to right, #f2994a, #f2c94c);
+}
+
+/*440 Blue Skies*/
+._440 {
+  background-image: linear-gradient(to right, #56ccf2, #2f80ed);
+}
+
+/*441 Chitty Chitty Bang Bang*/
+._441 {
+  background-image: linear-gradient(to right, #007991, #78ffd6);
+}
+
+/*442 Visions of Grandeur*/
+._442 {
+  background-image: linear-gradient(to right, #000046, #1cb5e0);
+}
+
+/*443 Crystal Clear*/
+._443 {
+  background-image: linear-gradient(to right, #159957, #155799);
+}
+
+/*444 Mello*/
+._444 {
+  background-image: linear-gradient(to right, #c0392b, #8e44ad);
+}
+
+/*445 Compare Now*/
+._445 {
+  background-image: linear-gradient(to right, #ef3b36, #ffffff);
+}
+
+/*446 Meridian*/
+._446 {
+  background-image: linear-gradient(to right, #283c86, #45a247);
+}
+
+/*447 Relay*/
+._447 {
+  background-image: linear-gradient(to right, #3a1c71, #d76d77, #ffaf7b);
+}
+
+/*448 Alive*/
+._448 {
+  background-image: linear-gradient(to right, #cb356b, #bd3f32);
+}
+
+/*449 Scooter*/
+._449 {
+  background-image: linear-gradient(to right, #36d1dc, #5b86e5);
+}
+
+/*450 Terminal*/
+._450 {
+  background-image: linear-gradient(to right, #000000, #0f9b0f);
+}
+
+/*451 Telegram*/
+._451 {
+  background-image: linear-gradient(to right, #1c92d2, #f2fcfe);
+}
+
+/*452 Crimson Tide*/
+._452 {
+  background-image: linear-gradient(to right, #642b73, #c6426e);
+}
+
+/*453 Socialive*/
+._453 {
+  background-image: linear-gradient(to right, #06beb6, #48b1bf);
+}
+
+/*454 Subu*/
+._454 {
+  background-image: linear-gradient(to right, #0cebeb, #20e3b2, #29ffc6);
+}
+
+/*455 Broken Hearts*/
+._455 {
+  background-image: linear-gradient(to right, #d9a7c7, #fffcdc);
+}
+
+/*456 Kimoby Is The New Blue*/
+._456 {
+  background-image: linear-gradient(to right, #396afc, #2948ff);
+}
+
+/*457 Dull*/
+._457 {
+  background-image: linear-gradient(to right, #c9d6ff, #e2e2e2);
+}
+
+/*458 Purpink*/
+._458 {
+  background-image: linear-gradient(to right, #7f00ff, #e100ff);
+}
+
+/*459 Orange Coral*/
+._459 {
+  background-image: linear-gradient(to right, #ff9966, #ff5e62);
+}
+
+/*460 Summer*/
+._460 {
+  background-image: linear-gradient(to right, #22c1c3, #fdbb2d);
+}
+
+/*461 King Yna*/
+._461 {
+  background-image: linear-gradient(to right, #1a2a6c, #b21f1f, #fdbb2d);
+}
+
+/*462 Velvet Sun*/
+._462 {
+  background-image: linear-gradient(to right, #e1eec3, #f05053);
+}
+
+/*463 Zinc*/
+._463 {
+  background-image: linear-gradient(
+    to right,
+    #ada996,
+    #f2f2f2,
+    #dbdbdb,
+    #eaeaea
+  );
+}
+
+/*464 Hydrogen*/
+._464 {
+  background-image: linear-gradient(
+    to right,
+    #667db6,
+    #0082c8,
+    #0082c8,
+    #667db6
+  );
+}
+
+/*465 Argon*/
+._465 {
+  background-image: linear-gradient(
+    to right,
+    #03001e,
+    #7303c0,
+    #ec38bc,
+    #fdeff9
+  );
+}
+
+/*466 Lithium*/
+._466 {
+  background-image: linear-gradient(to right, #6d6027, #d3cbb8);
+}
+
+/*467 Digital Water*/
+._467 {
+  background-image: linear-gradient(to right, #74ebd5, #acb6e5);
+}
+
+/*468 Orange Fun*/
+._468 {
+  background-image: linear-gradient(to right, #fc4a1a, #f7b733);
+}
+
+/*469 Rainbow Blue*/
+._469 {
+  background-image: linear-gradient(to right, #00f260, #0575e6);
+}
+
+/*470 Pink Flavour*/
+._470 {
+  background-image: linear-gradient(to right, #800080, #ffc0cb);
+}
+
+/*471 Sulphur*/
+._471 {
+  background-image: linear-gradient(to right, #cac531, #f3f9a7);
+}
+
+/*472 Selenium*/
+._472 {
+  background-image: linear-gradient(to right, #3c3b3f, #605c3c);
+}
+
+/*473 Delicate*/
+._473 {
+  background-image: linear-gradient(to right, #d3cce3, #e9e4f0);
+}
+
+/*474 Ohhappiness*/
+._474 {
+  background-image: linear-gradient(to right, #00b09b, #96c93d);
+}
+
+/*475 Lawrencium*/
+._475 {
+  background-image: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+}
+
+/*476 Relaxing red*/
+._476 {
+  background-image: linear-gradient(to right, #fffbd5, #b20a2c);
+}
+
+/*477 Taran Tado*/
+._477 {
+  background-image: linear-gradient(to right, #23074d, #cc5333);
+}
+
+/*478 Bighead*/
+._478 {
+  background-image: linear-gradient(to right, #c94b4b, #4b134f);
+}
+
+/*479 Sublime Vivid*/
+._479 {
+  background-image: linear-gradient(to right, #fc466b, #3f5efb);
+}
+
+/*480 Sublime Light*/
+._480 {
+  background-image: linear-gradient(to right, #fc5c7d, #6a82fb);
+}
+
+/*481 Pun Yeta*/
+._481 {
+  background-image: linear-gradient(to right, #108dc7, #ef8e38);
+}
+
+/*482 Quepal*/
+._482 {
+  background-image: linear-gradient(to right, #11998e, #38ef7d);
+}
+
+/*483 Sand to Blue*/
+._483 {
+  background-image: linear-gradient(to right, #3e5151, #decba4);
+}
+
+/*484 Wedding Day Blues*/
+._484 {
+  background-image: linear-gradient(to right, #40e0d0, #ff8c00, #ff0080);
+}
+
+/*485 Shifter*/
+._485 {
+  background-image: linear-gradient(to right, #bc4e9c, #f80759);
+}
+
+/*486 Red Sunset*/
+._486 {
+  background-image: linear-gradient(to right, #355c7d, #6c5b7b, #c06c84);
+}
+
+/*487 Moon Purple*/
+._487 {
+  background-image: linear-gradient(to right, #4e54c8, #8f94fb);
+}
+
+/*488 Pure Lust*/
+._488 {
+  background-image: linear-gradient(to right, #333333, #dd1818);
+}
+
+/*489 Slight Ocean View*/
+._489 {
+  background-image: linear-gradient(to right, #a8c0ff, #3f2b96);
+}
+
+/*490 eXpresso*/
+._490 {
+  background-image: linear-gradient(to right, #ad5389, #3c1053);
+}
+
+/*491 Shifty*/
+._491 {
+  background-image: linear-gradient(to right, #636363, #a2ab58);
+}
+
+/*492 Vanusa*/
+._492 {
+  background-image: linear-gradient(to right, #da4453, #89216b);
+}
+
+/*493 Evening Night*/
+._493 {
+  background-image: linear-gradient(to right, #005aa7, #fffde4);
+}
+
+/*494 Magic*/
+._494 {
+  background-image: linear-gradient(to right, #59c173, #a17fe0, #5d26c1);
+}
+
+/*495 Margo*/
+._495 {
+  background-image: linear-gradient(to right, #ffefba, #ffffff);
+}
+
+/*496 Blue Raspberry*/
+._496 {
+  background-image: linear-gradient(to right, #00b4db, #0083b0);
+}
+
+/*497 Citrus Peel*/
+._497 {
+  background-image: linear-gradient(to right, #fdc830, #f37335);
+}
+
+/*498 Sin City Red*/
+._498 {
+  background-image: linear-gradient(to right, #ed213a, #93291e);
+}
+
+/*499 Rastafari*/
+._499 {
+  background-image: linear-gradient(to right, #1e9600, #fff200, #ff0000);
+}
+
+/*500 Summer Dog*/
+._500 {
+  background-image: linear-gradient(to right, #a8ff78, #78ffd6);
+}
+
+/*501 Wiretap*/
+._501 {
+  background-image: linear-gradient(to right, #8a2387, #e94057, #f27121);
+}
+
+/*502 Burning Orange*/
+._502 {
+  background-image: linear-gradient(to right, #ff416c, #ff4b2b);
+}
+
+/*503 Ultra Voilet*/
+._503 {
+  background-image: linear-gradient(to right, #654ea3, #eaafc8);
+}
+
+/*504 By Design*/
+._504 {
+  background-image: linear-gradient(to right, #009fff, #ec2f4b);
+}
+
+/*505 Kyoo Tah*/
+._505 {
+  background-image: linear-gradient(to right, #544a7d, #ffd452);
+}
+
+/*506 Kye Meh*/
+._506 {
+  background-image: linear-gradient(to right, #8360c3, #2ebf91);
+}
+
+/*507 Kyoo Pal*/
+._507 {
+  background-image: linear-gradient(to right, #dd3e54, #6be585);
+}
+
+/*508 Metapolis*/
+._508 {
+  background-image: linear-gradient(to right, #659999, #f4791f);
+}
+
+/*509 Flare*/
+._509 {
+  background-image: linear-gradient(to right, #f12711, #f5af19);
+}
+
+/*510 Witching Hour*/
+._510 {
+  background-image: linear-gradient(to right, #c31432, #240b36);
+}
+
+/*511 Azur Lane*/
+._511 {
+  background-image: linear-gradient(to right, #7f7fd5, #86a8e7, #91eae4);
+}
+
+/*512 Neuromancer*/
+._512 {
+  background-image: linear-gradient(to right, #f953c6, #b91d73);
+}
+
+/*513 Harvey*/
+._513 {
+  background-image: linear-gradient(to right, #1f4037, #99f2c8);
+}
+
+/*514 Amin*/
+._514 {
+  background-image: linear-gradient(to right, #8e2de2, #4a00e0);
+}
+
+/*515 Memariani*/
+._515 {
+  background-image: linear-gradient(to right, #aa4b6b, #6b6b83, #3b8d99);
+}
+
+/*516 Yoda*/
+._516 {
+  background-image: linear-gradient(to right, #ff0099, #493240);
+}
+
+/*517 Cool Sky*/
+._517 {
+  background-image: linear-gradient(to right, #2980b9, #6dd5fa, #ffffff);
+}
+
+/*518 Dark Ocean*/
+._518 {
+  background-image: linear-gradient(to right, #373b44, #4286f4);
+}
+
+/*519 Evening Sunshine*/
+._519 {
+  background-image: linear-gradient(to right, #b92b27, #1565c0);
+}
+
+/*520 JShine*/
+._520 {
+  background-image: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
+}
+
+/*521 Moonlit Asteroid*/
+._521 {
+  background-image: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+}
+
+/*522 MegaTron*/
+._522 {
+  background-image: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
+}
+
+/*523 Cool Blues*/
+._523 {
+  background-image: linear-gradient(to right, #2193b0, #6dd5ed);
+}
+
+/*524 Piggy Pink*/
+._524 {
+  background-image: linear-gradient(to right, #ee9ca7, #ffdde1);
+}
+
+/*525 Grade Grey*/
+._525 {
+  background-image: linear-gradient(to right, #bdc3c7, #2c3e50);
+}
+
+/*526 Telko*/
+._526 {
+  background-image: linear-gradient(to right, #f36222, #5cb644, #007fc3);
+}
+
+/*527 Zenta*/
+._527 {
+  background-image: linear-gradient(to right, #2a2d3e, #fecb6e);
+}
+
+/*528 Electric Peacock*/
+._528 {
+  background-image: linear-gradient(
+    to right,
+    #8a2be2,
+    #0000cd,
+    #228b22,
+    #ccff00
+  );
+}
+
+/*529 Under Blue Green*/
+._529 {
+  background-image: linear-gradient(
+    to right,
+    #051937,
+    #004d7a,
+    #008793,
+    #00bf72,
+    #a8eb12
+  );
+}
+
+/*530 Lensod*/
+._530 {
+  background-image: linear-gradient(to right, #6025f5, #ff5555);
+}
+
+/*531 Newspaper*/
+._531 {
+  background-image: linear-gradient(to right, #8a2be2, #ffa500, #f8f8ff);
+}
+
+/*532 Dark Blue Gradient*/
+._532 {
+  background-image: linear-gradient(to right, #2774ae, #002e5d, #002e5d);
+}
+
+/*533 Dark Blu Two*/
+._533 {
+  background-image: linear-gradient(to right, #004680, #4484ba);
+}
+
+/*534 Lemon Lime*/
+._534 {
+  background-image: linear-gradient(to right, #7ec6bc, #ebe717);
+}
+
+/*535 Beleko*/
+._535 {
+  background-image: linear-gradient(to right, #ff1e56, #f9c942, #1e90ff);
+}
+
+/*536 Mango Papaya*/
+._536 {
+  background-image: linear-gradient(to right, #de8a41, #2ada53);
+}
+
+/*537 Unicorn Rainbow*/
+._537 {
+  background-image: linear-gradient(to right, #f7f0ac, #acf7f0, #f0acf7);
+}
+
+/*538 Flame*/
+._538 {
+  background-image: linear-gradient(to right, #ff0000, #fdcf58);
+}
+
+/*539 Blue Red*/
+._539 {
+  background-image: linear-gradient(to right, #36b1c7, #960b33);
+}
+
+/*540 Twitter*/
+._540 {
+  background-image: linear-gradient(to right, #1da1f2, #009ffc);
+}
+
+/*541 Blooze*/
+._541 {
+  background-image: linear-gradient(to right, #6da6be, #4b859e, #6da6be);
+}
+
+/*542 Blue Slate*/
+._542 {
+  background-image: linear-gradient(to right, #b5b9ff, #2b2c49);
+}
+
+/*543 Space Light Green*/
+._543 {
+  background-image: linear-gradient(to right, #9fa0a8, #5c7852);
+}
+
+/*544 Flower*/
+._544 {
+  background-image: linear-gradient(to right, #dcffbd, #cc86d1);
+}
+
+/*545 Elate The Euge*/
+._545 {
+  background-image: linear-gradient(
+    to right,
+    #8bdeda,
+    #43add0,
+    #998ee0,
+    #e17dc2,
+    #ef9393
+  );
+}
+
+/*546 Peach Sea*/
+._546 {
+  background-image: linear-gradient(to right, #e6ae8c, #a8cecf);
+}
+
+/*547 Abbas*/
+._547 {
+  background-image: linear-gradient(to right, #00fff0, #0083fe);
+}
+
+/*548 Winter Woods*/
+._548 {
+  background-image: linear-gradient(to right, #333333, #a2ab58, #a43931);
+}
+
+/*549 Ameena*/
+._549 {
+  background-image: linear-gradient(
+    to right,
+    #0c0c6d,
+    #de512b,
+    #98d0c1,
+    #5bb226,
+    #023c0d
+  );
+}
+
+/*550 Emerald Sea*/
+._550 {
+  background-image: linear-gradient(to right, #05386b, #5cdb95);
+}
+
+/*551 Bleem*/
+._551 {
+  background-image: linear-gradient(to right, #4284db, #29eac4);
+}
+
+/*552 Coffee Gold*/
+._552 {
+  background-image: linear-gradient(to right, #554023, #c99846);
+}
+
+/*553 Compass*/
+._553 {
+  background-image: linear-gradient(to right, #516b8b, #056b3b);
+}
+
+/*554 Andreuzza's*/
+._554 {
+  background-image: linear-gradient(to right, #d70652, #ff025e);
+}
+
+/*555 Moonwalker*/
+._555 {
+  background-image: linear-gradient(to right, #152331, #000000);
+}
+
+/*556 Whinehouse*/
+._556 {
+  background-image: linear-gradient(
+    to right,
+    #f7f7f7,
+    #b9a0a0,
+    #794747,
+    #4e2020,
+    #111111
+  );
+}
+
+/*557 Hyper Blue*/
+._557 {
+  background-image: linear-gradient(to right, #59cde9, #0a2a88);
+}
+
+/*558 Racker*/
+._558 {
+  background-image: linear-gradient(to right, #eb0000, #95008a, #3300fc);
+}
+
+/*559 After the Rain*/
+._559 {
+  background-image: linear-gradient(
+    to right,
+    #ff75c3,
+    #ffa647,
+    #ffe83f,
+    #9fff5b,
+    #70e2ff,
+    #cd93ff
+  );
+}
+
+/*560 Neon Green*/
+._560 {
+  background-image: linear-gradient(to right, #81ff8a, #64965e);
+}
+
+/*561 Dusty Grass*/
+._561 {
+  background-image: linear-gradient(to right, #d4fc79, #96e6a1);
+}
+
+/*562 Visual Blue*/
+._562 {
+  background-image: linear-gradient(to right, #003d4d, #00c996);
+}

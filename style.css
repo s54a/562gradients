@@ -1,0 +1,154 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  min-height: 100vh;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a {
+  color: dodgerblue;
+  text-decoration: none;
+}
+
+.parent-container {
+  min-height: 50vh;
+  min-width: 50vw;
+}
+
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: none;
+}
+
+.parent-container:hover .container {
+  display: block;
+}
+
+.block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 1rem;
+}
+
+.btn {
+  padding: 0.8rem 1rem;
+  border-radius: 5px;
+  font-size: 1.5rem;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  margin: 0 0.8rem;
+  width: 85px;
+  color: #fff;
+  background-color: #000;
+}
+
+.btnBig {
+  padding: 0.8rem 1rem;
+  border-radius: 5px;
+  font-size: 1.5rem;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  margin: 0 1rem;
+  color: #fff;
+  background-color: #000;
+}
+
+.input {
+  padding: 0.65rem 1rem;
+  font-size: 1.5rem;
+  border-radius: 5px;
+  width: 85px;
+  height: 52px;
+  border: none;
+  outline: none;
+  margin: 0 0.8rem;
+  color: #fff;
+  background-color: #000;
+  text-align: center;
+  /* caret-color: transparent; */
+}
+
+.modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(0);
+  transition: 200ms ease-in-out;
+  /* border: 1px solid grey; */
+  border-radius: 10px;
+  z-index: 10;
+  background-color: #000;
+  color: white;
+  width: 500px;
+  max-width: 80%;
+}
+
+.modal.active {
+  transform: translate(-50%, -50%) scale(1);
+}
+
+.modal-header {
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid white;
+}
+
+.modal-header .title {
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+.modal-header .close-button {
+  cursor: pointer;
+  border: none;
+  outline: none;
+  background: none;
+  font-size: 1.5rem;
+  padding: 0;
+  margin: 0;
+  color: red;
+  font-weight: bold;
+}
+
+.modal-body {
+  padding: 1.5rem;
+}
+
+#overlay {
+  position: fixed;
+  opacity: 0;
+  transition: 200ms ease-in-out;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  pointer-events: none;
+}
+
+#overlay.active {
+  opacity: 1;
+  pointer-events: all;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
