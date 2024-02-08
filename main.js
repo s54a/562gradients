@@ -1,3 +1,5 @@
+import Toastify from "toastify-js";
+import "toastify-js/src/toastify.css";
 import arr from "./gradients";
 const numberInput = document.getElementById("numberInput");
 const prev = document.querySelector("#prev");
