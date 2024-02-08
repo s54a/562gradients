@@ -90,3 +90,5 @@ By using [vite-plugin-singlefile](https://www.npmjs.com/package/vite-plugin-sing
 But Netilfiy maybe could add a file or two & if you something like Wappalyzer it also increases the 2 or 3 HTTP Requests
 
 The size of Index.html is around 293 Kilobytes.
+
+---
