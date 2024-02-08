@@ -79,7 +79,13 @@ That's All There is
 
 ![preview of Modal](./assets/modal.png "Preview of Modal")
 
-## Experiment
+## Deployed Link
+
+The project is deployed and accessible online. You can visit it by following this link:
+
+[562Gradients](https://562gradients.netlify.app/)
+
+## Experiment I did with the Project
 
 I also did an experiment with the project
 

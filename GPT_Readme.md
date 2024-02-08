@@ -42,7 +42,13 @@ Upon page load, users are presented with a gradient background. Hovering over th
 
 ![Preview of Modal](./assets/modal.png "Preview of Modal")
 
-## Experiment
+## Deployed Link
+
+The project is deployed and accessible online. You can visit it by following this link:
+
+[562Gradients](https://562gradients.netlify.app/)
+
+## Experiment I did with the Project
 
 An experimental feature was implemented in the project, involving the inclusion of the favicon as base64 in the HTML. Additionally, [vite-plugin-singlefile](https://www.npmjs.com/package/vite-plugin-singlefile) was utilized to consolidate the compiled CSS and JavaScript into the HTML file, reducing HTTP requests. However, this approach may lead to additional file inclusion by hosting platforms like Netlify and affect the website's detection by tools like Wappalyzer. The resulting size of Index.html is approximately 293 Kilobytes.
 
