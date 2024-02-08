@@ -1,3 +1,4 @@
+import html2canvas from "html2canvas";
 import Toastify from "toastify-js";
 import "toastify-js/src/toastify.css";
 import arr from "./gradients";
@@ -20,6 +21,7 @@ function setValue() {
   number = inputValue;
   body.className = `_${number}`;
   numberInput.value = number;
+  body.style.backgroundImage = "";
 }
 
 const setInputValue = document.querySelector("#setValue");
@@ -34,6 +36,8 @@ prev.addEventListener("click", () => {
   }
   body.className = `_${number}`;
   numberInput.value = number;
+  rand = false;
+  inputValueChange();
 });
 
 next.addEventListener("click", () => {
@@ -44,6 +48,8 @@ next.addEventListener("click", () => {
   }
   body.className = `_${number}`;
   numberInput.value = number;
+  rand = false;
+  inputValueChange();
 });
 
 const randomGradient = document.querySelector("#randomGradient");
@@ -66,34 +72,127 @@ function generateTwoDifferentRandomHexCodes() {
   return [hexCode1, hexCode2];
 }
 
+let style, css, rand;
+
+function inputValueChange() {
+  if (rand) {
+    numberInput.type = "text";
+    numberInput.value = "Random";
+    numberInput.style.padding = "0.65rem";
+  } else {
+    numberInput.type = "number";
+    numberInput.value = number;
+    numberInput.style.padding = "0.65rem 1rem";
+  }
+}
+
 randomGradient.addEventListener("click", () => {
   const [color1, color2] = generateTwoDifferentRandomHexCodes();
   body.style.backgroundImage = `linear-gradient(to right, ${color1}, ${color2})`;
+  css = `linear-gradient(to right, ${color1}, ${color2})`;
+  style = `background-image: linear-gradient(to right, ${color1}, ${color2});`;
   console.log("Random Graient Colors", color1, color2);
+  rand = true;
+  inputValueChange();
 });
 
 function copyColorObject() {
-  const colorObject = arr[number];
-  const jsonString = JSON.stringify(colorObject);
-  navigator.clipboard
-    .writeText(jsonString)
-    .then(() => {
-      console.log("Colors Copied to Clipboard:", jsonString);
-      Toastify({
-        text: "Gradient Colors Copied to Clipboard",
-      }).showToast();
-      return;
-    })
-    .catch((err) => {
-      console.error("Unable to Copy Colors to Clipboard", err);
-      Toastify({
-        text: "Unable to Copy Colors to Clipboard",
-      }).showToast();
-    });
+  if (!rand) {
+    const numberForArr = number - 1;
+    const colorObject = arr[numberForArr];
+    const jsonString = JSON.stringify(colorObject);
+    console.log(jsonString);
+    navigator.clipboard
+      .writeText(jsonString)
+      .then(() => {
+        console.log("Colors Copied to Clipboard:", jsonString);
+        Toastify({
+          text: "Gradient Colors Copied to Clipboard",
+        }).showToast();
+        return;
+      })
+      .catch((err) => {
+        console.error("Unable to Copy Colors to Clipboard", err);
+        Toastify({
+          text: "Unable to Copy Colors to Clipboard",
+        }).showToast();
+      });
+  } else {
+    console.log(style);
+    navigator.clipboard
+      .writeText(style)
+      .then(() => {
+        console.log("Colors Copied to Clipboard:", style);
+        Toastify({
+          text: "Gradient Colors Copied to Clipboard",
+        }).showToast();
+        return;
+      })
+      .catch((err) => {
+        console.error("Unable to Copy Colors to Clipboard", err);
+        Toastify({
+          text: "Unable to Copy Colors to Clipboard",
+        }).showToast();
+      });
+  }
 }
 
 const copyGradientBtn = document.querySelector("#copyGradientBtn");
 copyGradientBtn.addEventListener("click", copyColorObject);
+
+const form = document.querySelector("#form");
+
+form.addEventListener("submit", (e) => {
+  e.preventDefault();
+  numberInput.blur();
+});
+
+const donwloadBtn = document.querySelector("#downloadBtn");
+const btn = document.querySelector(".btn");
+const downloadBtnHeight = btn.offsetHeight;
+const downloadBtnWidth = btn.offsetWidth;
+numberInput.style.height = downloadBtnHeight + "px";
+numberInput.style.width = downloadBtnWidth + "px";
+
+donwloadBtn.addEventListener("click", donwloadImg);
+
+function donwloadImg() {
+  const div = document.createElement("div");
+  const numberForArr = number - 1;
+  const colorObject = arr[numberForArr];
+  let cssString = colorObject;
+  let newCssString;
+
+  if (!rand) {
+    console.log(rand);
+    newCssString = cssString.replace(/background-image: |;$/g, "");
+    console.log(`Downloading the ${newCssString}`);
+  } else {
+    console.log(rand);
+    newCssString = css;
+    console.log(`Downloading the ${newCssString}`);
+  }
+
+  div.id = "gradientDiv";
+  div.style.backgroundImage = newCssString;
+  div.style.width = "1920px";
+  div.style.height = "1080px";
+  body.appendChild(div);
+
+  html2canvas(document.querySelector("#gradientDiv"), {
+    scale: 4,
+  }).then((canvas) => {
+    document.body.appendChild(canvas);
+    const url = canvas.toDataURL("image/png");
+    const a = document.createElement("a");
+    a.download = "gradient";
+    a.href = url;
+    a.click();
+    canvas.style.display = "none";
+    body.removeChild(canvas);
+    body.removeChild(div);
+  });
+}
 
 const openModalButtons = document.querySelectorAll("[data-modal-target]");
 const closeModalButtons = document.querySelectorAll("[data-close-button]");

@@ -1,37 +1,45 @@
 # Gradients
 
-I Started This Project When I Had Just Started Learning Web Development
+## Introduction
 
-I Was Building a Web Based Based Mp3 Player and I Needed Gradient for that and after not being able to Find One I Thought of Building Something which could Generate New Gradients but Soon I Found a Few Websites [Web Gradients](https://webgradients.com) & [ui Gradients](https://uigradients.com).
+I Started This Project When I Had Just Started Learning Web Development trying to solve my problem of finding a Gradient
 
-Then I Got to Know That They Are Open Source Project and the Gradients (Hex Code) are Available on GitHub So Then I Started Building the Gradient Generator.
+But Soon I Found a [Web Gradients](https://webgradients.com) & [ui Gradients](https://uigradients.com).
 
-But I Didn't Knew Enough to Built One but a Today I Once Again Saw This Incompleted Project and Thought Lets Just Finish It.
+They had all the Gradients which I needed.
 
-So Here It is
+But I still wanted to build a Gradient Generator my self.
 
-The Project Has Nothing Special in it the Original Website Are Much Better if You Are Trying to Find Gradients.
+Since all the Gradients used in the Websites above were available, on Github. I used them and build this project on top of that.
 
-But I Learned a Few Things About Html, Css, Js
+## Project Overview
 
-Here Are the Things Which I Learned
+The Gradient Generator allows users to access a curated list of gradients sourced from open-source projects like [Web Gradients](https://webgradients.com) and [ui Gradients](https://uigradients.com).
 
-1. Lets Say if You Have Set an Elements Class Using Classlist or Any Other Method and You Want the User to Get Those Styles on a Click of a Button There Isn't a Method Which Just Exports the Styles of That Class.
-
-2. If the Child Element Gets Hight & Width From the Content Inside Them Then There is No Way Which I Found to Set the Height & Width of the Parent Element Related to Child Element.
-
-3. As of Writing This I Just Releasised the Ways I Could Have Dealt With All the Problems
-
-4. Both of the Problem were a Few Line Fix with JS
+- You can copy the CSS of the Gradients
+- Generate Random
+  - It uses JS Math.Random() to generate random Hex Codes which are then used to generate Gradients
+- You can Download the Gradients as an PNG
 
 ## Technologies Used
 
-Built this uing Vite as a Build Tool, HTML, CSS, JS & Toastify-JS for Notification
+- HTML, CSS, JavaScript
+- Vite
+- [Toastify-JS](Https://github.com/apvarun/toastify-js)
+  - For Notifications
+- [HTML2Canvas](https://github.com/niklasvh/html2canvas)
+  - For Converting the Linear Gradient to an Image & Downloading it
 
-### Cloning
+## Cloning Instructions
+
+To clone the project and run it locally:
 
 ```bash
 git clone https://github.com/s9-g/562gradients.git
+
+cd 562gradients
+
+npm install
 
 npm run dev
 ```
@@ -50,9 +58,16 @@ The First 180 Gradients Are From Web Gradients Website and the Rest Are From Ui 
 Below Are Next & Prev Button
 
 Below That There Are Copy and More Button
-Copy Button Copies an Object Which Has the Information About the Gradient to the User's Clipboard and the User is Notified With Notification Using [toastify](Https://github.com/apvarun/toastify-js)
 
-Then There is a Random Gradient Generator Button Which Generates Random Hex Numbers Using Math.random Which Are the Used as the Gradient Colors
+Copy Button Copies the CSS of the corresponding Gradient whether it is a Random Gradient or from the List to the User's Clipboard.
+
+The User is Notified With Notification Using [Toastify-JS](Https://github.com/apvarun/toastify-js)
+
+Then There is a Random Gradient Generator Button
+
+At last ther is Button to Download the Gradient as a PNG
+
+- Which uses [HTML2Canvas](https://github.com/niklasvh/html2canvas) Package
 
 That's All There is
 
@@ -63,3 +78,15 @@ That's All There is
 ![preview With Controls of Gradient Number 179](./assets/previewWithcontrols.png "Preview With Controls of Gradient Number 179")
 
 ![preview of Modal](./assets/modal.png "Preview of Modal")
+
+## Experiment
+
+I also did an experiment with the project
+
+I inlcuded the favicon as base64 in the HTML
+
+By using [vite-plugin-singlefile](https://www.npmjs.com/package/vite-plugin-singlefile) I pasted the compiled CSS & JS in the HTML File so know when you load the Website and while Network Tab is open in Developer Tools it will just make only 1 HTTP Request.
+
+But Netilfiy maybe could add a file or two & if you something like Wappalyzer it also increases the 2 or 3 HTTP Requests
+
+The size of Index.html is around 293 Kilobytes.

@@ -16,16 +16,18 @@
   <body>
     <div class="parent-container">
       <div class="container">
-        <div class="block">
-          <input
-            type="number"
-            class="input"
-            id="numberInput"
-            min="1"
-            max="562"
-          />
-          <button class="btn" type="submit" id="setValue">Set</button>
-        </div>
+        <form id="form">
+          <div class="block">
+            <input
+              type="number"
+              class="input"
+              id="numberInput"
+              min="1"
+              max="562"
+            />
+            <button class="btn" type="submit" id="setValue">Set</button>
+          </div>
+        </form>
         <div class="block">
           <button type="button" name="button" class="btn" id="prev">
             Prev
@@ -42,6 +44,12 @@
         </div>
         <div class="block">
           <button class="btnBig" id="randomGradient">Random Gradient</button>
+        </div>
+        <div class="block">
+          <button class="btnBig" id="downloadBtn">
+            Download Image
+            <!-- <a href="#" id="downloadLink">Download Image</a> -->
+          </button>
         </div>
       </div>
     </div>
