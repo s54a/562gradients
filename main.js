@@ -11,17 +11,21 @@ body.className = `_${number}`;
 numberInput.value = number;
 
 function setValue() {
-  let inputValue = parseFloat(numberInput.value);
-  if (inputValue < 0 || inputValue > 562) {
-    Toastify({
-      text: "The number must be between 1 and 562",
-    }).showToast();
+  if (rand) {
     return;
+  } else {
+    let inputValue = parseFloat(numberInput.value);
+    if (inputValue < 0 || inputValue > 562) {
+      Toastify({
+        text: "The number must be between 1 and 562",
+      }).showToast();
+      return;
+    }
+    number = inputValue;
+    body.className = `_${number}`;
+    numberInput.value = number;
+    body.style.backgroundImage = "";
   }
-  number = inputValue;
-  body.className = `_${number}`;
-  numberInput.value = number;
-  body.style.backgroundImage = "";
 }
 
 const setInputValue = document.querySelector("#setValue");
@@ -78,11 +82,9 @@ function inputValueChange() {
   if (rand) {
     numberInput.type = "text";
     numberInput.value = "Random";
-    numberInput.style.padding = "0.65rem";
   } else {
     numberInput.type = "number";
     numberInput.value = number;
-    numberInput.style.padding = "0.65rem 1rem";
   }
 }
 
