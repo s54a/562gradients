@@ -69,6 +69,11 @@ a {
   color: #fff;
   background-color: #000;
   width: 16rem;
+  text-align: center;
+}
+
+.githubLink:hover {
+  color: dodgerblue;
 }
 
 .input {
