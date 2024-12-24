@@ -149,16 +149,16 @@ form.addEventListener("submit", (e) => {
   numberInput.blur();
 });
 
-const donwloadBtn = document.querySelector("#downloadBtn");
+const downloadBtn = document.querySelector("#downloadBtn");
 const btn = document.querySelector(".btn");
 const downloadBtnHeight = btn.offsetHeight;
 const downloadBtnWidth = btn.offsetWidth;
 numberInput.style.height = downloadBtnHeight + "px";
 numberInput.style.width = downloadBtnWidth + "px";
 
-donwloadBtn.addEventListener("click", donwloadImg);
+downloadBtn.addEventListener("click", downloadImg);
 
-function donwloadImg() {
+function downloadImg() {
   const div = document.createElement("div");
   const numberForArr = number - 1;
   const colorObject = arr[numberForArr];

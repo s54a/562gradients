@@ -45,6 +45,14 @@ a {
   margin: 1rem;
 }
 
+.blockForBigBtn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 1rem 0;
+  width: 100%;
+}
+
 .btn {
   padding: 0.8rem 1rem;
   border-radius: 5px;
@@ -65,11 +73,12 @@ a {
   cursor: pointer;
   border: none;
   outline: none;
-  margin: 0 1rem;
+  /* margin: 0 1rem; */
   color: #fff;
   background-color: #000;
-  width: 16rem;
+  /* width: 16rem; */
   text-align: center;
+  width: 285px;
 }
 
 .githubLink:hover {
